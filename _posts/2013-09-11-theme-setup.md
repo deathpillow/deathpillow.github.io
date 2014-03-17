@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Theme Setup
+category: articles
 tags: [Jekyll, theme, install, setup]
 ---
 
