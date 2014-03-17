@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About Thomas James Lodato
+title: About
 tags: [about, Thomas James Lodato]
 modified: 2014-03-17
 ---
