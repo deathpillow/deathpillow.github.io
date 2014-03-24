@@ -10,24 +10,24 @@ new_post_ext    = "md"  # default new post file extension when using the new_pos
 new_page_ext    = "md"  # default new page file extension when using the new_page task
 
 
-#############################
-# Create a new Post or Page #
-#############################
+####################################################
+# Create a new Post, Page, Draft (make or publish) #
+####################################################
 
-# usage rake new_post
-desc "Create a new post in #{posts_dir}"
-task :new_post, :title do |t, args|
+# usage rake new_draft
+desc "Create a new draft in #{drafts_dir}"
+task :new_draft, :title do |t, args|
   if args.title
     title = args.title
   else
     title = get_stdin("Enter a title for your post: ")
   end
-  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  filename = "#{drafts_dir}/#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  tags = get_stdin("Enter tags to classify your post (comma separated): ")
-  puts "Creating new post: #{filename}"
+  tags = get_stdin("Enter tags to classify your draft post (comma separated): ")
+  puts "Creating new draft post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
@@ -44,20 +44,39 @@ task :new_post, :title do |t, args|
   end
 end
 
-# usage rake new_draft
-desc "Create a new draft in #{drafts_dir}"
-task :new_draft, :title do |t, args|
+# usage rake publish_draft
+desc "Publishing a draft from #{drafts_dir} to #{posts_dir}"
+task :publish_draft, :title do |t, args|
+  if args.title
+    title = args.title
+  else
+    #Dir["#{drafts_dir}/*"]
+    title = get_stdin("Enter the title for the draft you want to publish: ")
+  end
+  filename = "#{drafts_dir}/#{title.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    new_name = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+    File.rename(filename,new_name)
+  else
+    abort("No file with the name #{filename} exists. rake aborted!")
+  end
+  puts "Published draft #{filename}"
+end
+
+# usage rake new_post
+desc "Create a new post in #{posts_dir}"
+task :new_post, :title do |t, args|
   if args.title
     title = args.title
   else
     title = get_stdin("Enter a title for your post: ")
   end
-  filename = "#{drafts_dir}/#{title.to_url}.#{new_post_ext}"
+  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  tags = get_stdin("Enter tags to classify your draft post (comma separated): ")
-  puts "Creating new draft post: #{filename}"
+  tags = get_stdin("Enter tags to classify your post (comma separated): ")
+  puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
