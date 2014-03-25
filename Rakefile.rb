@@ -5,7 +5,8 @@ require "stringex"
 ## -- Config -- ##
 
 posts_dir       = "_posts"    # directory for blog files
-drafts_dir       = "_drafts"  # directory for draft files
+drafts_dir      = "_drafts"  # directory for draft files
+default_cat     = "thoughts"
 new_post_ext    = "md"  # default new post file extension when using the new_post task
 new_page_ext    = "md"  # default new page file extension when using the new_page task
 
@@ -26,12 +27,15 @@ task :new_draft, :title do |t, args|
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
+  category = "#{default_cat}"
+  category  = get_stdin("Enter category for your draft post: ") if ask("Is this post in a category other than #{default_cat}", ['y','n']) == 'y'
   tags = get_stdin("Enter tags to classify your draft post (comma separated): ")
   puts "Creating new draft post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "category: #{category}"
     post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "tags: [#{tags}]"
     post.puts "image:"
@@ -78,12 +82,17 @@ task :new_post, :title do |t, args|
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
+  category = "#{default_cat}"
+  category  = get_stdin("Enter category for your draft post: ") if ask("Is this post in a category other than #{default_cat}", ['y','n']) == 'y'
+  tags = get_stdin("Enter tags to classify your draft post (comma separated): ")
+  puts "Creating new draft post: #{filename}"
   tags = get_stdin("Enter tags to classify your post (comma separated): ")
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "category: #{category}"
     post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "tags: [#{tags}]"
     post.puts "image:"
