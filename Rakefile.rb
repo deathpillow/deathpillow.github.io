@@ -50,7 +50,10 @@ task :publish_draft, :title do |t, args|
   if args.title
     title = args.title
   else
-    #Dir["#{drafts_dir}/*"]
+    puts ""
+    puts "Current files in #{drafts_dir}"
+    puts Dir["#{drafts_dir}/*"]
+    puts ""
     title = get_stdin("Enter the title for the draft you want to publish: ")
   end
   filename = "#{drafts_dir}/#{title.to_url}.#{new_post_ext}"

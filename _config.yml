@@ -34,8 +34,10 @@ bing_verify:        #D81F4C18A6CB3018F64D7C827D953DFD
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Thoughts
+    url: /thoughts/
+  - title: Portfolio
+    url: /portfolio/
   #- title: Theme Setup
     #url: /theme-setup/
   #- title: Made Mistakes
