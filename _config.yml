@@ -36,8 +36,8 @@ links:
     url: /about/
   - title: Thoughts
     url: /thoughts/
-  - title: Portfolio
-    url: /portfolio/
+  #- title: Portfolio
+    #url: /portfolio/
   #- title: Theme Setup
     #url: /theme-setup/
   #- title: Made Mistakes

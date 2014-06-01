@@ -7,7 +7,7 @@ modified: 2014-03-17
 ---
 Hi! My name is Thomas. 
 
-I am a doctoral student (soon to be candidate) in Digital Media at Georgia Institute of Technology. For the time being my work is scattered: [personal site](http://theminutewaltz.com), [coroflot](http://www.coroflot.com/theminutewaltz), and [studio site](http://publicdesignworkshop.net)
+I am a doctoral candidate in Digital Media at Georgia Institute of Technology. For the time being my work is scattered: [personal site](http://theminutewaltz.com), [coroflot](http://www.coroflot.com/theminutewaltz), and [studio site](http://publicdesignworkshop.net)
 
 ## Areas of Study
 
