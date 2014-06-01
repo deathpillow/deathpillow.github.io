@@ -4,6 +4,10 @@ permalink: /about/
 title: About
 tags: [about, Thomas James Lodato]
 modified: 2014-03-17
+image:
+  feature: ./about/metoo.jpg
+  credit: 
+  creditlink:
 ---
 Hi! My name is Thomas. 
 
