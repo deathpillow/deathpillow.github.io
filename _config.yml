@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: #sosimpletheme
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              #http://deathpillow.github.io
+url:              http://deathpillow.github.io
 
 # Owner/author information
 owner:
