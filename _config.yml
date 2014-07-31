@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: #sosimpletheme
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://deathpillow.github.io
+url:              #http://deathpillow.github.io
 
 # Owner/author information
 owner:
@@ -32,8 +32,8 @@ bing_verify:        #D81F4C18A6CB3018F64D7C827D953DFD
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
+  - title: Bio
+    url: /bio/
   - title: CV
     url: /cv/
   - title: Thoughts

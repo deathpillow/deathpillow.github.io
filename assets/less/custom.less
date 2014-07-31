@@ -1,0 +1,27 @@
+.home-bio {
+  width: 100%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 4em;
+  padding-bottom: 4em;
+  border-bottom: 1px dotted lighten(@link-color, 50);
+  p:first-child {
+    margin-top: 0;
+  }
+  @media @large {
+    float: left;
+  }
+  p > a,
+  li > a {
+    border-bottom: 1px dotted lighten(@link-color, 50);
+    &:hover {
+      border-bottom-style: solid;
+    }
+  }
+  .home-bio-content {
+    max-width: 640px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
