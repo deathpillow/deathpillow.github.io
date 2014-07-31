@@ -6,15 +6,15 @@ tags: [cv, Thomas James Lodato]
 modified: 2014-07-31
 ---
 
-Education
+##Education##
 
-Ph.D. in Digital Media, Georgia Institute of Technology, August 2010-
+Ph.D. in Digital Media, Georgia Institute of Technology, August 2010-present
 
 M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 
 B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
-Teaching
+##Teaching##
 
 Principles of Interaction Design (LCC 3710), primary instructor , 2010
 
@@ -22,7 +22,7 @@ Mobile Interventions (LCC 6215), led by Michael Nitsche, Spring 2010
 
 Construction of the Moving Image (LCC 2730), led by Michael Nitsche, Fall 2009
 
-Research
+##Research##
 
 ISTC-Social: Collectivity & Creativity @ Public Design Workshop, led by Carl DiSalvo, 2012-present
 
@@ -36,15 +36,8 @@ Issue The Margins @ Public Design Workshop, led by Carl DiSalvo, Summer 2009
 
 SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 2008-Spring 2009
 
-Exhibits
 
-G01N 23/20, or, 15 Questions to Ask 30 Patents, Georgia Tech Vision Salon, Atlanta GA, Spring 2011
-
-growbot Garden (as part of Public Design Workshop), 01SJ Biennial, San Jose CA, Fall 2010
-
-growBot Garden (as part of Public Design Workshop), BiodiverCity 47, Washington D.C., Fall 2010
-
-Publications & Proceedings
+##Publications & Proceedings##
 
 DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.” interactions 21, 4 (July 2014), 58-61.
 
@@ -56,19 +49,27 @@ DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “T
 
 The Patent Multiple, 4S, Cleveland OH, Fall 2011
 
-Skills
+##Exhibits##
 
-Design
+G01N 23/20, or, 15 Questions to Ask 30 Patents, Georgia Tech Vision Salon, Atlanta GA, Spring 2011
+
+growbot Garden (as part of Public Design Workshop), 01SJ Biennial, San Jose CA, Fall 2010
+
+growBot Garden (as part of Public Design Workshop), BiodiverCity 47, Washington D.C., Fall 2010
+
+##Skills##
+
+###Design###
 
 Adobe Suite
 
 Interaction Design, User Experience Research
 
-Programming
+###Programming###
 
 Java, Processing, Arduino, HTML/CSS, PHP, javascript, ActionScript
 
-Professional Work
+##Professional Work##
 
 UX Research Intern, Intel Corporation (PC Client Group), Summer-Fall 2013
 
