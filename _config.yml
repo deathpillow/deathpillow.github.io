@@ -34,6 +34,8 @@ bing_verify:        #D81F4C18A6CB3018F64D7C827D953DFD
 links:
   - title: About
     url: /about/
+  - title: CV
+    url: /cv/
   - title: Thoughts
     url: /thoughts/
   - title: Portfolio
