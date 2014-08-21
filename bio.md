@@ -12,8 +12,6 @@ image:
 
 I'm current a Doctoral Candidate in the [Digital Media program](http://dm.lmc.gatech.edu/) at the Georgia Institute of Technology. I am member of the [Public Design Workshop](http://publicdesignworkshop.net). I am advised by [Carl DiSalvo](http://carldisalvo.com/).
 
-For the time being my work is scattered: [personal site](http://theminutewaltz.com), [coroflot](http://www.coroflot.com/theminutewaltz), and [studio site](http://publicdesignworkshop.net).
-
 My work focuses contemporary design and development practices with particular attention to accounts of emerging contexts. I approach these sites through the lenses of the humanities, science and technology studies, media theory, design research/studies/management, and human-computer interaction. I take influence from workplace ethnographies, studies of the everyday, and empirical design theory. 
 
 ## Dissertation: Doing the User Experience
