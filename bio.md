@@ -5,7 +5,7 @@ title: Bio
 tags: [bio, Thomas James Lodato]
 modified: 2014-03-17
 image:
-  feature: ./about/metoo.jpg
+  feature: ./about/me3.jpg
   credit: 
   creditlink:
 ---
