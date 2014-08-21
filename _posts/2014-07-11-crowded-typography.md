@@ -3,7 +3,6 @@ layout: post
 title: "Crowded Typography"
 description: "Bic developing a corwd-sourced typeface from touch-screen writing"
 category: thoughts
-modified: 2014-07-11 11:52:52 -0400
 tags: [design, typography, crowd-sourcing, touch]
 image: 
   feature: ./universalfont/universalfont.jpg

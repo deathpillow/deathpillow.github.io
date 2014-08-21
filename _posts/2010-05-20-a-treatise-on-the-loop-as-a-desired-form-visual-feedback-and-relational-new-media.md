@@ -2,7 +2,6 @@
 layout: post
 title: "A treatise on the loop as a desired form: visual feedback &amp; relational new media"
 category: portfolio
-modified: 2014-08-20 21:29:15 -0400
 tags: [media theory]
 image:
   feature: 

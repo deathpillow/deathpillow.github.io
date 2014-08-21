@@ -2,7 +2,6 @@
 layout: post
 title: "Meat Icons"
 category: portfolio
-modified: 2014-08-20 20:19:38 -0400
 tags: [icons, communication design]
 image:
   feature: ./meat/marbled.png

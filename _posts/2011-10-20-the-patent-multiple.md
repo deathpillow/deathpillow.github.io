@@ -2,7 +2,6 @@
 layout: post
 title: "The Patent Multiple"
 category: portfolio
-modified: 2014-08-20 20:56:11 -0400
 tags: [writing, presentation, TSA, surveillance]
 image:
   feature: ./patent/Mmw_large.jpg

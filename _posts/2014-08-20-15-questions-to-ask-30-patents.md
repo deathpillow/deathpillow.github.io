@@ -2,7 +2,6 @@
 layout: post
 title: "15 Questions to Ask 30 Patents"
 category: portfolio
-modified: 2014-06-01 17:29:32 -0400
 tags: []
 image:
   feature: 
