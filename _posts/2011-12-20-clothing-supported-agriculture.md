@@ -42,7 +42,7 @@ Clothing Supported Agriculture was done in collaboration with Sarah Fox and with
 	<figcaption>Website Documentation</figcaption>
 </figure>
 
-<figure class="half">
+<figure>
 	<img src="/images/csa/poster-detail.png">
 	<figcaption>Poster Documentation</figcaption>
 </figure>
