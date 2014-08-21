@@ -20,21 +20,25 @@ Clothing Supported Agriculture was done in collaboration with Sarah Fox and with
 <figure class="half">
 	<img src="/images/csa/bending-study.png">
 	<img src="/images/csa/kneeling-study.png">
+	<figcaption>Posture Studies</figcaption>
 </figure>
 
 <figure class="half">
-	<img src="/images/csa/shirt-patten.png">
+	<img src="/images/csa/shirt-pattern.png">
 	<img src="/images/csa/pants-pattern.png">
+	<figcaption>Pattern Studies</figcaption>
 </figure>
 
 <figure class="third">
-	<img src="/images/csa/shirt-final.png">
-	<img src="/images/csa/pants-final.png">
-	<img src="/images/csa/pocker-final.png">
+	<img src="/images/csa/shirt-final.jpeg">
+	<img src="/images/csa/pants-final.jpeg">
+	<img src="/images/csa/pocket-final.png">
+	<figcaption>Material Studies</figcaption>
 </figure>
 
 <figure class="third">
 	<img src="/images/csa/poster-detail.png">
-	<img src="/images/csa/pants-final.png">
-	<img src="/images/csa/pocker-final.png">
+	<img src="/images/csa/website-final.png">
+	<img src="/images/csa/website-detail.png">
+	<figcaption>Website Documentation</figcaption>
 </figure>
