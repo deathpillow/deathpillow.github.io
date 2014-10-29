@@ -28,7 +28,7 @@ _With feet_
 <figure class="third">
 	<img src="/images/runes/runes-07.jpg">
 	<img src="/images/runes/runes-08.jpg">
-	<img src="/images/runes/runes-08.jpg">
+	<img src="/images/runes/runes-00.jpg">
 </figure>
 
 _Without feet_
