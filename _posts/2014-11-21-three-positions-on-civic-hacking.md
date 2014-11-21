@@ -50,7 +50,7 @@ Speculation constitutes the basic assumption of what designers do. Design theori
 
 Designers then speculate on a preferred future, one that can only be argued for rather than proven. Certainly we can critique Simon for his use of the term preferred&mdash;I mean, preferred *for whom?*&mdash;but I want to focus on Simon’s and others’ embrace of the term *speculation*.
 
-While the term speculation doesn't trouble the designer, the term spec does&mdash;spec, as in speculative work. Spec work refers to design work that is done prior to a formal contract, statement of work, or payment scheme is established. These are off-the-books activities accompanied by the promise of being on them, I mean, assuming the work is good. Designers are cautioned about spec work by guilds and groups: Freelance Ain’t Free.
+While the term *speculation* doesn't trouble the designer, the term *spec* does&mdash;*spec* as in speculative work. Spec work refers to design work that is done prior to a formal contract, statement of work, or payment scheme is established. These are off-the-books activities accompanied by the promise of being on them, I mean, assuming the work is good. Designers are cautioned about spec work by guilds and groups: Freelance Ain’t Free.
 
 Issue-oriented hackathons struggle with speculation and spec work. They require free work and promise an eventual pay-off, whether that is a better life or a better profit. Some examples illustrate the tension of speculation and spec work further.
  
