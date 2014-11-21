@@ -39,13 +39,15 @@ SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 20
 
 ##Publications & Proceedings##
 
-DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.” interactions 21, 4 (July 2014), 58-61.
+Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
 
-DiSalvo, Carl, Jonathan Lukens, Thomas Lodato, Tom Jenkins, and Tanyoung Kim. 2014. “Making public things: how HCI design can express matters of concern.” In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14). ACM, New York, NY, USA, 2397-2406.
+DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.” *interactions 21*, 4 (July 2014), 58-61.
 
-Acker, A., Chalmers, M., Burton, M., Wythoff, G., & Lodato, T.. (2013). “Learning with polyphony: AmpDamp.” IConference 2013 Proceedings (pp. 1090-1094).
+DiSalvo, Carl, Jonathan Lukens, Thomas Lodato, Tom Jenkins, and Tanyoung Kim. 2014. “Making public things: how HCI design can express matters of concern.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14).* ACM, New York, NY, USA, 2397-2406.
 
-DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “The Collective Articulation of Issues as Design Practice.” CoDesign, Vol. 7, No. 3-4 (2011): 185-197.
+Acker, A., Chalmers, M., Burton, M., Wythoff, G., & Lodato, T.. (2013). “Learning with polyphony: AmpDamp.” *IConference 2013 Proceedings* (pp. 1090-1094).
+
+DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “The Collective Articulation of Issues as Design Practice.” *CoDesign*, Vol. 7, No. 3-4 (2011): 185-197.
 
 The Patent Multiple, 4S, Cleveland OH, Fall 2011
 
