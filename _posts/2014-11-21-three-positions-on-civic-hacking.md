@@ -5,14 +5,14 @@ category: thoughts
 modified: 2014-11-21 11:54:09 -0500
 tags: [civics, civic hacking, hackathons, design, design research]
 image:
-  feature: ./dl14/board.png
+  feature: ./DL14/board.png
   credit: Melissa Gregg
   creditlink: 
 comments: 
 share: 
 ---
 
-The following are positions presented at the Digital Labor Conference (November 14-16 2014 at The New School, NYC). The positions come from my continued research on issue-oriented hackathons. These positions were part of a panel on civic hacking, which included contributions from Carl DiSalvo, Melissa Gregg, Max Liboiron, Lilly Irani, and Andrew Schrock. The presentations were aimed at being debates over terms found at civic hacking events (mine being civic hacking, participation, and speculation). Each position was to be no more than 3 minutes.
+The following are positions presented at the [Digital Labor Conference](http://digitallabor.org/) (November 14-16 2014 at The New School, NYC). The positions come from my continued research on issue-oriented hackathons. These positions were part of a panel on civic hacking, which included contributions from Carl DiSalvo, Melissa Gregg, Max Liboiron, Lilly Irani, and Andrew Schrock. The presentations were aimed at being debates over terms found at civic hacking events (mine being civic hacking, participation, and speculation). Each position was to be no more than 3 minutes.
 
 ___
 
@@ -63,7 +63,9 @@ Hack//Meat is a third example. Where the previous events had no criteria for win
 These example illustrate that the tension of speculation and spec work is not just a debate over payment, but of value and value for whom. As a design researcher, I am full of questions:
 
 *How can these ideas be made and not be made private?*
+
 *What is payment for volunteering beyond pizza?*
+
 *Why not seed new political representatives rather than new entrepreneurs?*
 
 This is the crisis of speculation: with the future indeterminate, we want to compare options. But, generating these options is work we struggle to value. I have co-suggested elsewhere that the work of civic imagining is important, and it is. Civic imagining builds language and expectations of the world we participate in. But can we speculate on civics without speculating on work? The first step is we must stop using the eventuality of these speculations as excuses for why the work unpaid—work is work. I suggest that civic hackathons need a different type of speculation: not *what future do we prefer?* but *to what future are we actually willing to commit?*
