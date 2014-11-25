@@ -14,28 +14,6 @@ M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 
 B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
-##Teaching##
-
-Principles of Interaction Design (LCC 3710), primary instructor , 2010
-
-Mobile Interventions (LCC 6215), led by Michael Nitsche, Spring 2010
-
-Construction of the Moving Image (LCC 2730), led by Michael Nitsche, Fall 2009
-
-##Research##
-
-ISTC-Social: Collectivity & Creativity @ Public Design Workshop, led by Carl DiSalvo, 2012-present
-
-Public Design Futures @ Public Design Workshop, led by Carl DiSalvo, 2011-12
-
-Surveillance + The City @ Public Design Workshop, led by Carl DiSalvo, 2011
-
-growBot Garden @ Public Design Workshop, led by Carl DiSalvo, Summer 2010
-
-Issue The Margins @ Public Design Workshop, led by Carl DiSalvo, Summer 2009
-
-SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 2008-Spring 2009
-
 
 ##Publications & Proceedings##
 
@@ -64,6 +42,28 @@ G01N 23/20, or, 15 Questions to Ask 30 Patents, Georgia Tech Vision Salon, Atlan
 growbot Garden (as part of Public Design Workshop), 01SJ Biennial, San Jose CA, Fall 2010
 
 growBot Garden (as part of Public Design Workshop), BiodiverCity 47, Washington D.C., Fall 2010
+
+##Teaching##
+
+Principles of Interaction Design (LCC 3710), primary instructor , 2010
+
+Mobile Interventions (LCC 6215), led by Michael Nitsche, Spring 2010
+
+Construction of the Moving Image (LCC 2730), led by Michael Nitsche, Fall 2009
+
+##Research##
+
+ISTC-Social: Collectivity & Creativity @ Public Design Workshop, led by Carl DiSalvo, 2012-present
+
+Public Design Futures @ Public Design Workshop, led by Carl DiSalvo, 2011-12
+
+Surveillance + The City @ Public Design Workshop, led by Carl DiSalvo, 2011
+
+growBot Garden @ Public Design Workshop, led by Carl DiSalvo, Summer 2010
+
+Issue The Margins @ Public Design Workshop, led by Carl DiSalvo, Summer 2009
+
+SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 2008-Spring 2009
 
 ##Skills##
 
