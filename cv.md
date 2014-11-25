@@ -39,6 +39,10 @@ SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 20
 
 ##Publications & Proceedings##
 
+Lodato, Thomas and Carl DiSalvo. "Issue-Oriented Hackathons as Material Participation." *New Media and Society.* Forthcoming.
+
+DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andrew Schrock. "Civic Hacking (panel)." *Digital Labor 2014*, The New School, New York City, November 14-16 2014.
+
 Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
 
 DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.” *interactions 21*, 4 (July 2014), 58-61.
