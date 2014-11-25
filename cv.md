@@ -65,6 +65,16 @@ Issue The Margins @ Public Design Workshop, led by Carl DiSalvo, Summer 2009
 
 SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 2008-Spring 2009
 
+##Professional Work##
+
+UX Research Intern, Intel Corporation (PC Client Group), Summer-Fall 2013
+
+App Developer, Front-End Designer, & UX, FlashIssue (Atlanta GA), Summer 2012-Spring 2013
+
+Web Designer & Developer (freelance), Elaina Designs (Atlanta GA), Summer 2009 & Fall 2010
+
+High School Math Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap GA), 2007-08
+
 ##Skills##
 
 ###Design###
@@ -76,13 +86,3 @@ Interaction Design, User Experience Research
 ###Programming###
 
 Java, Processing, Arduino, HTML/CSS, PHP, javascript, ActionScript
-
-##Professional Work##
-
-UX Research Intern, Intel Corporation (PC Client Group), Summer-Fall 2013
-
-App Developer, Front-End Designer, & UX, FlashIssue (Atlanta GA), Summer 2012-Spring 2013
-
-Web Designer & Developer (freelance), Elaina Designs (Atlanta GA), Summer 2009 & Fall 2010
-
-High School Math Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap GA), 2007-08
