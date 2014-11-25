@@ -12,7 +12,7 @@ comments:
 share: 
 ---
 
-The following are positions presented at the [Digital Labor Conference](http://digitallabor.org/) (November 14-16 2014 at The New School, NYC). The positions come from my continued research on issue-oriented hackathons. These positions were part of a panel on civic hacking, which included contributions from Carl DiSalvo, Melissa Gregg, Max Liboiron, Lilly Irani, and Andrew Schrock. The presentations were aimed at being debates over terms found at civic hacking events (mine being civic hacking, participation, and speculation). Each position was to be no more than 3 minutes.
+The following are positions presented at the [Digital Labor Conference](http://digitallabor.org/) (November 14-16 2014 at The New School, NYC). The positions come from my continued research on issue-oriented hackathons. These positions were part of a panel on civic hacking, which included contributions from Carl DiSalvo, Melissa Gregg, Max Liboiron, Lilly Irani, and Andrew Schrock. The presentations were aimed at being debates over terms found at civic hacking events (mine being civic hacking, participation, and speculation). Each position was to be no more than 3 minutes. Audio for the panel can be found [here](https://www.dropbox.com/s/ibtyl3dzxmmsh5b/DL14CivicHacking.mp3)
 
 ___
 
