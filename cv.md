@@ -45,6 +45,7 @@ DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andr
 
 Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
 
+Lodato, Thomas James and Daria Loi. 2014. "Where's love in e-waste?." In *Proceedings of the 13th Participatory Design Conference: Short Papers, Industry Cases, Workshop Descriptions, Doctoral Consortium papers, and Keynote abstracts* - Volume 2 (PDC '14), Vol. 2. ACM, New York, NY, USA, 195-197. DOI=10.1145/2662155.2667198 http://doi.acm.org/10.1145/2662155.2667198
 DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.” *interactions 21*, 4 (July 2014), 58-61.
 
 DiSalvo, Carl, Jonathan Lukens, Thomas Lodato, Tom Jenkins, and Tanyoung Kim. 2014. “Making public things: how HCI design can express matters of concern.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14).* ACM, New York, NY, USA, 2397-2406.
