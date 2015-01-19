@@ -9,7 +9,7 @@ image:
   creditlink: 
 comments: 
 ---
-The Growbot Garden project was a project I contributed to in various way through my involvement in the Public Design Workshop. My specific contributions were [the design of teaching tools for the workshops](http://www.coroflot.com/theminutewaltz/Design-Tools-for-Teaching-About-Sensing-and-Robotics)and [the design of an series of workshops as part of a residency at 01SJ 2010](http://thomaslodato.info/portfolio/sheeps-clothing-crypsis-for-urban-sensing/). The following is copy borrowed from the general description of the project on the [Public Design Workshop site](http://publicdesignworkshop.net/portfolio/growbot-garden/).
+The Growbot Garden project was a project I contributed to in various way through my involvement in the Public Design Workshop. My specific contributions were [the design of teaching tools for the workshops](http://www.coroflot.com/theminutewaltz/Design-Tools-for-Teaching-About-Sensing-and-Robotics) and [the design of an series of workshops as part of a residency at 01SJ 2010](http://thomaslodato.info/portfolio/sheeps-clothing-crypsis-for-urban-sensing/). The following is copy borrowed from the general description of the project on the [Public Design Workshop site](http://publicdesignworkshop.net/portfolio/growbot-garden/).
 
 --
 
