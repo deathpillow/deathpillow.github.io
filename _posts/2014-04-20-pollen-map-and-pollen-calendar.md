@@ -45,24 +45,33 @@ Part of my research into the Pollen Calendar and Pollen Map was to develop the P
 <figure class="half">
 	<img src="/images/pollen/pollen-process/process-2-1.jpg">
 	<img src="/images/pollen/pollen-process/process-2-2.jpg">
-	<figcaption>First prototype of the Pollen Calendar. Rather than wells, each day held a piece of double sided tape. This reduced the surface to which pollen could adhere.</figcaption>
+	<figcaption>First prototype of the Pollen Calendar</figcaption>
 </figure>
+
+The first round of prototypes used double-sided tape to gather pollen. This reduced the surface to which pollen could adhere. As a result, I decided to create a calendar with wells.
 
 <figure class="half">
 	<img src="/images/pollen/pollen-process/process-3.jpg">
 	<img src="/images/pollen/pollen-process/process-5.jpg">
-	<figcaption>The second round prototypes for the Pollen Calendar. During this phase, I figured out how to mold wells. I needed a way to cover the wells that were not being used. The first image shows a calendar with clear plastic flaps covering wells. The second image shows a aluminum blister covering. I decided to use the first option since it could be reused.</figcaption>
+	<figcaption>Second prototypes of the Pollen Calendar</figcaption>
 </figure>
+
+The second round prototypes for the Pollen Calendar featured wells after the first prototypes were insufficient. During this phase, I figured out how to mold wells using a vacuum form. This led to a secondary problem: I needed a way to cover the wells that were not being used from collecting pollen. The first image shows a calendar with clear plastic flaps covering wells. The second image shows an aluminum blister covering. I decided to use the first option since it could be reused.
 
 <figure>
 	<img src="/images/pollen/pollen-process/process-4.jpg">
-	<figcaption>Prototypes of calendar molds. After making molds, I realized that the prototypes were specific to the current month. These molds had to be remade.</figcaption>
+	<figcaption>Prototypes of Pollen Calendar molds</figcaption>
 </figure>
+
+After vacuum forming a series of calendars, I decided to change materials for the molds. The original plywood chipped when used for than once. Instead, I laser cut compressed particle board. This ended up causing different issues during molding. The particle board was pourous and was difficult to separate from the plastic. I used a lubricant to make the plastic and mold easier to pull apart. The lubricant made the plastic cloudy however.
 
 <figure>
 	<img src="/images/pollen/pollen-process/process-6.jpg">
-	<figcaption>The final prototype was comprised of 35 wells. This meant the calendar could be used for a variety of months.</figcaption>
+	<figcaption>The final prototype of the Pollen Calendar</figcaption>
 </figure>
+
+The final prototype featured 35 wells. This meant the calendar could be used for a variety of months.
+
 <figure>
 	<img src="/images/pollen/pollen-process/process-final-img.jpg">
 	<figcaption>Final prototype</figcaption>
