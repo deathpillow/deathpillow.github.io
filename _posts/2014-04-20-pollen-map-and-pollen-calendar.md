@@ -30,3 +30,40 @@ Pollen Calendars provide a way for individuals to enact their own localized poll
 	<img src="/images/pollen/calendar.jpg">
 	<figcaption>Pollen Calendar</figcaption>
 </figure>
+
+--
+
+###Pollen Calendar Development
+
+<figure>
+	<img src="/images/pollen/pollen-process/process-1.jpg">
+	<figcaption>Making a pollen calendar</figcaption>
+</figure>
+
+Part of my research into the Pollen Calendar and Pollen Map was to develop the Pollen Calendar. The following are images of various stages of the prototypes.
+
+<figure class="half">
+	<img src="/images/pollen/pollen-process/process-2-1.jpg">
+	<img src="/images/pollen/pollen-process/process-2-2.jpg">
+	<figcaption>First prototype of the Pollen Calendar. Rather than wells, each day held a piece of double sided tape. This reduced the surface to which pollen could adhere.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/pollen/pollen-process/process-3.jpg">
+	<img src="/images/pollen/pollen-process/process-5.jpg">
+	<figcaption>The second round prototypes for the Pollen Calendar. During this phase, I figured out how to mold wells. I needed a way to cover the wells that were not being used. The first image shows a calendar with clear plastic flaps covering wells. The second image shows a aluminum blister covering. I decided to use the first option since it could be reused.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/pollen/pollen-process/process-4.jpg">
+	<figcaption>Prototypes of calendar molds. After making molds, I realized that the prototypes were specific to the current month. These molds had to be remade.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/pollen/pollen-process/process-6.jpg">
+	<figcaption>The final prototype was comprised of 35 wells. This meant the calendar could be used for a variety of months.</figcaption>
+</figure>
+<figure>
+	<img src="/images/pollen/pollen-process/process-final-img.jpg">
+	<figcaption>Final prototype</figcaption>
+</figure>
