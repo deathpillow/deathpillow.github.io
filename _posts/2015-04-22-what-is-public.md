@@ -19,7 +19,7 @@ The following is an edited transcript of a position statement I presented on a p
 <figure class="half">
 	<img src="/images/publics/cycleatlanta-1.png">
 	<img src="/images/publics/cycleatlanta-2.png">
-	<figcaption>Fig. 1: Screenshot of [CycleAtlanta Map](http://cycleatlanta.org/rides/) centered on downtown Atlanta, GA (left); Screeshot of same map zoomed further out (right) showing the lack of rides in the Westside neighborhoods </figcaption>
+	<figcaption>Fig. 1: Screenshot of [CycleAtlanta Map](http://cycleatlanta.org/rides/) centered on downtown Atlanta, GA (left); Screenshot of same map zoomed further out (right) showing the lack of rides in the Westside neighborhoods </figcaption>
 </figure>
 
 The [CycleAtlanta map](http://cycleatlanta.org/rides/) was created, in part, by two of my colleagues in the Digital Media program at the Georgia Institute of Technology: Mariam Asad (a third-year PhD student) and Chris Le Dantec (an assistant professor). The CycleAtlanta map uses an [Android and iPhone application](http://cycleatlanta.org/) to log bike rides through the city of Atlanta. Individuals are able to indicate their age, ethnicity, the purpose of their trip, and their comfort riding. The application, map, and the underlying data partnered with the City of Atlanta to help city planners make decisions around transportation infrastructure. As such, the application provides a way for cyclists to participate and advocate for infrastructure by showing where they ride. The thick vertical line on the right of the map (figure 1: left) is the Eastside Beltline trail and the thick intersecting horizontal line is the PATH. In the center of the image, the thick vertical line is Peachtree Street.
