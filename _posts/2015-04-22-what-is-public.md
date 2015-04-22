@@ -12,7 +12,7 @@ comments:
 share: 
 ---
 
-The following is an edited transcript of a position statement I presented on a panel on public space design. The panel was gathered because of concerns around inclusiveness within the built environment. The panelists came from backgrounds in city planning, sustainable development, community organizing, and architecture. Underlying the stakes of the panel was the term "the public," which I have spent a great deal of time considering. As such, I wanted to unpack the term “public” in terms of participation, inclusion, and legitimacy within the planning and development of public space.
+The following is an edited transcript of a position statement I presented on a panel on public space design. The panel took place on April 21 at the [Center for Civic Innovation](http://www.civicatlanta.org/) in Atlanta, GA. The panel was gathered because of concerns around inclusiveness within the built environment. The panelists came from backgrounds in city planning, sustainable development, community organizing, and architecture. Underlying the stakes of the panel was the term "the public," which I have spent a great deal of time considering. As such, I wanted to unpack the term “public” in terms of participation, inclusion, and legitimacy within the planning and development of public space.
 
 --
 
