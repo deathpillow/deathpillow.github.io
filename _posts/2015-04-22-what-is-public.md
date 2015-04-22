@@ -38,9 +38,8 @@ In this statement, Dewey rejects that public things, like public space, are publ
 
 If space is public because of who participates, then the question is who participates?
 
-<figure class="half">
+<figure>
 	<img src="/images/publics/cycleatlanta-3.png">
-	<img src="/images/publics/cycleatlanta-4.png">
 	<figcaption>Fig. 2: Screenshot of [CycleAtlanta Map](http://cycleatlanta.org/rides/) centered on downtown Atlanta, GA filtering based on self-identified ethnicity. Red for Caucasian; Blue for African-American; Green for Asian</figcaption>
 </figure>
 
