@@ -10,15 +10,15 @@ image:
   creditlink:
 ---
 
-I'm current a Doctoral Candidate in the [Digital Media program](http://dm.lmc.gatech.edu/) at the Georgia Institute of Technology. I am member of the [Public Design Workshop](http://publicdesignworkshop.net). I am advised by [Carl DiSalvo](http://carldisalvo.com/).
+I am currently a Doctoral Candidate in the [Digital Media program](http://dm.lmc.gatech.edu/) at the Georgia Institute of Technology. I am member of the [Public Design Workshop](http://publicdesignworkshop.net). I am advised by [Carl DiSalvo](http://carldisalvo.com/).
 
-My work focuses contemporary design and development practices with particular attention to accounts of emerging contexts. I approach these sites through the lenses of the humanities, science and technology studies, media theory, design research/studies/management, and human-computer interaction. I take influence from workplace ethnographies, studies of the everyday, and empirical design theory. 
+My work focuses on contemporary design and development practices with particular attention to accounts of emerging contexts. I approach these sites through the lenses of the humanities, science and technology studies, media theory, design research/studies/management, and human-computer interaction. I take influence from workplace ethnographies, studies of the everyday, and empirical design theory. 
 
-## Dissertation: Doing the User Experience
+## Dissertation: The Work of User Experience Design
 
-My dissertation work traces the everyday practices of user experience professionals at a large technology company. With a well-established tradition of engineering and a history of making high-end "ingredients" for computing systems, LTC is an odd setting for teams to discuss how end-users engage with finished systems. Even more, user experience has become a company-wide initiative to aid in innovation and future-casting. The dissertation is an ethnographic account of these practices based on six months of embedded field work as a user experience researcher for LTC. 
+My dissertation work traces the everyday practices of user experience professionals at a large technology company (LTC). With a well-established tradition of engineering and a history of making high-end "ingredients" for computing systems, LTC is an odd setting for teams to discuss how end-users engage with finished systems. Even more, user experience has become a company-wide initiative to aid in innovation and future-casting. The dissertation is an ethnographic account of these practices based on six months of embedded fieldwork as a user experience researcher for LTC. 
 
-The goal is to understand the divide between modes of design thinking and design doing. Through studying user experience at LTC, I want to find out how such initiatives are developed into local and situated work activities, and the problems therein as user-centeredness and design methods are adopted into new domain. Such research offers a better understanding of the boundaries between design ideas and methods by focusing on how they are deployed in new ways and new contexts to address contemporary conditions within computational technology development. 
+The goal of the dissertation is to understand the divide between modes of design thinking and design doing. Through studying user experience at LTC, I want to find out how such initiatives are developed into local and situated work activities. Such research offers a better understanding of the boundaries between design ideas and methods by focusing on how these ideas and methods are deployed in new ways and new contexts to address contemporary conditions within computational technology development. 
 
 ## Areas of Study
 
