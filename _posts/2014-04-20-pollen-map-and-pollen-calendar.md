@@ -63,7 +63,7 @@ The second round prototypes for the Pollen Calendar featured wells after the fir
 	<figcaption>Prototypes and original Pollen Calendar mold</figcaption>
 </figure>
 
-After vacuum forming a series of calendars, I decided to change materials for the molds. The original plywood chipped when used for than once. Instead, I laser cut compressed particle board. This ended up causing different issues during molding. The particle board was pourous and was difficult to separate from the plastic. I used a lubricant to make the plastic and mold easier to pull apart. The lubricant made the plastic cloudy however.
+After vacuum forming a series of calendars, I decided to change materials for the molds. The original plywood chipped when used more than once. Instead, I laser-cut compressed particle board. This ended up causing different issues during molding. The particle board was pourous and was difficult to separate from the plastic. I used a lubricant to make the plastic and mold easier to pull apart. The lubricant made the plastic cloudy however.
 
 <figure>
 	<img src="/images/pollen/pollen-process/process-6.jpg">
