@@ -15,7 +15,13 @@ M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 
-##Publications & Proceedings##
+##Publications, Proceedings && Presentations##
+
+Lodato, Thomas and Carl DiSalvo. “Issue-Oriented Hackathons as Ad-Hoc Design Events.” In
+*Proceedings for the Fourth Participatory Innovation Conference.* The Hague, May 18-20 2015.
+
+Lodato, Thomas. "What is the Public?" on *Public Space Design Panel.* Center for Civic
+Innovation. Atlanta, GA. April 28 2015.
 
 Lodato, Thomas and Carl DiSalvo. "Issue-Oriented Hackathons as Material Participation." *New Media and Society.* Forthcoming.
 
@@ -45,11 +51,32 @@ growBot Garden (as part of Public Design Workshop), BiodiverCity 47, Washington 
 
 ##Teaching##
 
-Principles of Interaction Design (LCC 3710), primary instructor , 2010
+###Courses###
 
-Mobile Interventions (LCC 6215), led by Michael Nitsche, Spring 2010
+Civic Media, Food Systems, & Interaction Design, Teaching/Studio Assistant (Carl DiSalvo),
+Spring 2013
 
-Construction of the Moving Image (LCC 2730), led by Michael Nitsche, Fall 2009
+Principles of Interaction Design (LCC 3710), Instructor, 2010-11
+
+Mobile Interventions (LCC 6215), Teaching Assistant (Michael Nitsche), Spring 2010
+
+Construction of the Moving Image (LCC 2730), Teaching Assistant (Michael Nitsche), Fall 2009
+
+High School Mathematics, Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap GA),
+2007-08
+
+###Workshops###
+
+Design Thinking Workshops, Center for Civic Innovation (Atlanta GA), Spring 2015
+
+Design Tool Prototyping Workshop, Parsons the New School for Design (NYC), Feb. 2015
+
+E-Waste Workshop, Participatory Design Conference (Windhoek, Namibia), Oct. 2014
+
+Food Data Hack, Public Design Workshop (Atlanta GA), Mar. 2013
+
+growBot Garden Workshops, Public Design Workshop (Atlanta GA & San Jose CA), Spring
+2009-Fall 2010
 
 ##Research##
 
