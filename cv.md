@@ -15,7 +15,7 @@ M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 
-##Publications, Proceedings && Presentations##
+##Publications, Proceedings & Presentations##
 
 Lodato, Thomas and Carl DiSalvo. “Issue-Oriented Hackathons as Ad-Hoc Design Events.” In
 *Proceedings for the Fourth Participatory Innovation Conference.* The Hague, May 18-20 2015.
