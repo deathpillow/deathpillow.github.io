@@ -69,7 +69,7 @@ Addressing these questions probes larger questions within digital media scholars
 The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
 
 <figure>
-	<img src="/images/ddd/scenario-second-sketch/ddd-escrow.png">
+	<img src="/images/ddd/scenario-second-sketch/ddd-escrow-01.png">
 	<figcaption>During divorce, financial assets are often placed in escrow while their division is being determined. How would digital assets be placed in escrow?</figcaption>
 </figure>
 
@@ -197,17 +197,6 @@ The sketches illustrate the various icons and ideas in context on social media a
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-12.png">
 	<figcaption>From escrowed to dividing/unshared assets (left); protected wireless and bluetooth, alternate (right).</figcaption>
 </figure>
-
-<figure>
-	<img src="/images/ddd/icon-sketch-set-2/div-files.png">
-	<figcaption>Posture Studies</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/ddd/icon-sketch-set-2/infra-div.png">
-	<figcaption>Posture Studies</figcaption>
-</figure>
-
 
 
 [^1]: [Automatic Domestic Standing Order](www.fultoncourt.org%2Ffamily%2Fforms%2Fautomatic_domestic_standing_order.pdf)
