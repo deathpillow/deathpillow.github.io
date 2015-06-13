@@ -55,44 +55,52 @@ Given the discussion of Article 5 and 6 of the Automatic Domestic Standing Order
 
 Addressing these questions probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
 
->the nature of possessions and possessing in a digital era
->bureaucratic processes in an era of open government
->sociality (and forgetting) in an era of mediated social networks
+*the nature of possessions and possessing in a digital era*
 
-The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
+*bureaucratic processes in an era of open government*
 
-<figure>
-	<img src="/images/ddd/scenario-second-sketch/dd-escrow.png">
-	<figcaption>During divorce, financial assets are often placed in escrow while their division is being determined. How would digital assets be placed in escrow?</figcaption>
-</figure>
-
-<figure class="half">
-	<img src="/images/ddd/scenario-second-sketch/divided.png">
-	<img src="/images/ddd/scenario-second-sketch/wireless.png">
-	<figcaption>How might files be designated as a product of divorce? (left); How might vital infrastructures be protected during the transition of divorce?</figcaption>
-</figure>
+*sociality (and forgetting) in an era of mediated social networks*
 
 <figure>
 	<img src="/images/ddd/scenario-second-sketch/ddd-2-01.png">
 	<figcaption>The seal for the Division of Domestic Data</figcaption>
 </figure>
 
+The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
+
+<figure>
+	<img src="/images/ddd/scenario-second-sketch/ddd-escrow.png">
+	<figcaption>During divorce, financial assets are often placed in escrow while their division is being determined. How would digital assets be placed in escrow?</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/scenario-second-sketch/divided.png">
+	<figcaption>How might files be designated as a product of divorce?</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/scenario-second-sketch/wireless.png">
+	<figcaption>How might vital infrastructures be protected during the transition of divorce?</figcaption>
+</figure>
+
 ##Outcomes##
 
 *The Division of Domestic Data* consists of three outputs: an icon set, a series of informational documents, and a series of situating sketches. These outcomes were produced using a research-through-design methodology: deep immersion in the contemporary processes of divorce, cataloging of existing icons related to relationships and digital property, and iterative icon and scenario design.
 
-1. Icon Set: The icon set focuses on the various states of digital property, services, and systems that allow for disconnecting, disentangling, or dissolving relational assets. One subgroup consists of icon badges that reflect the current state of files, images, and collections to be disassociated. Another subgroup accounts for services and systems that mediate disassociation, such as escrow servers or property disclosure algorithms.
+###Icon Set###
+
+The icon set focuses on the various states of digital property, services, and systems that allow for disconnecting, disentangling, or dissolving relational assets. One subgroup consists of icon badges that reflect the current state of files, images, and collections to be disassociated. Another subgroup accounts for services and systems that mediate disassociation, such as escrow servers or property disclosure algorithms.
 
 <figure>
 	<img src="/images/ddd/final/icons/objects/infrastructures.png">
-	<figcaption>Posture Studies</figcaption>
+	<figcaption>Vital infrastructures.</figcaption>
 </figure>
 
 <figure class="third">
 	<img src="/images/ddd/final/icons/badges/discovery.png">
 	<img src="/images/ddd/final/icons/objects/digital-escrow.png">
 	<img src="/images/ddd/final/icons/objects/protected-wifi.png">
-	<figcaption>Badge to mark shared digital assets that need to be disclosed during the discovery process (left); icon for digital escrow (center); seal to mark a protected wireless network (right0.</figcaption>
+	<figcaption>Badge to mark shared digital assets that need to be disclosed during the discovery process (left); icon for digital escrow (center); seal to mark a protected wireless network (right).</figcaption>
 </figure>
 
 <figure class="third">
@@ -115,8 +123,9 @@ The project does not attempt to answer these questions. Instead the goal is to e
 </figure>
 
 
+###Informational Documents###
 
-2. Informational Documents: Extrapolating from the current state of divorce within Atlanta (Fulton County, GA), the project includes updated informational documents currently used during the divorce process. These include an updated Automatic Domestic Standing Order to account for digital protections and an informational pamphlet explaining the divorce process under these new protections.
+Extrapolating from the current state of divorce within Atlanta (Fulton County, GA), the project includes updated informational documents currently used during the divorce process. These include an updated Automatic Domestic Standing Order to account for digital protections and an informational pamphlet explaining the divorce process under these new protections.
 
 <figure>
 	<img src="/images/ddd/final/documents/DDD-pamphlet-side-A-01.png">
@@ -124,12 +133,14 @@ The project does not attempt to answer these questions. Instead the goal is to e
 </figure>
 
 <figure>
-	<img src="/images/ddd/final/documents/DDD-pamphlet-side-B-01.png">
+	<img src="/images/ddd/final/documents/DDD-pamphlet-side-B-01-01.png">
 	<figcaption>Division of Domestic Data public service pamphlet (side B) with diagrammatic representation of digital property discovery, separation, and escrow.</figcaption>
 </figure>
 
 
-3. Situating Sketches: The sketches illustrate the various icons and ideas in context on social media and on local computing systems.
+###Situating Sketches###
+
+The sketches illustrate the various icons and ideas in context on social media and on local computing systems.
 
 <figure>
 	<img src="/images/ddd/final/sketches/local-files-01.png">
