@@ -5,9 +5,199 @@ category: portfolio
 modified: 2015-02-15 23:24:49 -0500
 tags: [design research, research-through-design, icons, speculative civics]
 image:
-  feature: 
+  feature: ./ddd/icon-sketch-set-1/ddd-sketch-13.png
   credit: 
   creditlink: 
 comments: 
 share: 
 ---
+*The Division of Domestic Data* is a speculative design project that explores the nature of property and social connectivity in the context of divorce.
+
+##Background##
+
+When filing for divorce in Fulton County (Atlanta, Georgia, USA), an Automatic Domestic Standing Order goes into effect for "all cases which are filed in the Family Division of the Superior Court of Fulton County and remains in effect as long as the case is pending." [^1] While some of the articles relate to the procedure of the open case (e.g. obligatory appearance in court), the Automatic Domestic Standing Order of Fulton County primarily serves the purpose of maintaining any and all current domestic responsibilities. Maintanance of responsibilities the means preventing either party listed in a divorce case from certain actions related to shared property, children, or benefits.  
+
+<figure class="half">
+	<img src="/images/ddd/background/article5.png">
+	<img src="/images/ddd/background/article6.png">
+	<figcaption>Automatic Domestic Standing Order of Fulton County: Article 5 (left) and Article 6 (right)</figcaption>
+</figure>
+
+There are two notable aspects to this document. The first point of interest is Article 5. It reads:
+
+>"Each party to a divorce or separate maintenance action is hereby enjoined and restrained from selling, encumbering, trading, contracting to sell, or otherwise disposing or removing from Fulton County, any of the property belonging to the parties except in the ordinary course of business."
+
+The term *property* refers to moveable physical property&mdash;things that take up space and have value, monetary or otherwise. While one might possess digital things, such as mp3 collections or digital photos, property refers only to physical possessions. In short, a computer is property, while its files (save registered intellectual property) are not. As many possessions have become digital, this oversight with regards to digital possessions presents a contemporary issue.
+
+The other noteworthy aspect is found in Article 6. It reads:
+
+>"Each party to a divorce, custody, separate maintenance or modification of support action is
+hereby enjoined and restrained from altering, suspending or terminating any active insurance coverage." 
+
+Like other provisions, Article 6 ensures that existing responsibilities are maintained. A spouse cannot cancel any car, health, or life insurance without being in violation of the standing court order, and so in contempt of court. We can understand Article 6 as a guarentee against undue burden. Since insurance is compulsory[^2] in many instances, cancelling said insurance conscripts another into purchasing new insurance. If we understand Article 6 as a guarentee against undue burden, then other subscriptions seem to require stipulation. As many professions and schooling require internet connectivity and/or mobile phones, cancellation of these services might be viewed as undue burden.
+
+##Framing##
+
+Given the discussion of Article 5 and 6 of the Automatic Domestic Standing Order of Fulton County, the project speculates:
+
+>How would provisions within an Automatic Domestic Standing Order that accommodate shared digital possessions and digital infrastructure be reflected in the process of divorce? And, how would such provisions impact our everyday use of computational technologies that are subject to local, state, or federal rules around contractual obligation (e.g. marriage)?
+
+<figure>
+	<img src="/images/ddd/final/documents/DDD-standing-order-full-01.png">
+	<figcaption>A new Automatic Domestic Standing Order</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/scenario-first-sketch/usb-drive.png">
+	<img src="/images/ddd/scenario-first-sketch/router-2-01.png">
+	<figcaption>How would digital property and digital infrastruture be handled in the event of a divorce?</figcaption>
+</figure>
+
+Addressing these questions probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
+
+>the nature of possessions and possessing in a digital era
+>bureaucratic processes in an era of open government
+>sociality (and forgetting) in an era of mediated social networks
+
+The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
+
+<figure>
+	<img src="/images/ddd/scenario-second-sketch/dd-escrow.png">
+	<figcaption>During divorce, financial assets are often placed in escrow while their division is being determined. How would digital assets be placed in escrow?</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/scenario-second-sketch/divided.png">
+	<img src="/images/ddd/scenario-second-sketch/wireless.png">
+	<figcaption>How might files be designated as a product of divorce? (left); How might vital infrastructures be protected during the transition of divorce?</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/scenario-second-sketch/ddd-2-01.png">
+	<figcaption>The seal for the Division of Domestic Data</figcaption>
+</figure>
+
+##Outcomes##
+
+*The Division of Domestic Data* consists of three outputs: an icon set, a series of informational documents, and a series of situating sketches. These outcomes were produced using a research-through-design methodology: deep immersion in the contemporary processes of divorce, cataloging of existing icons related to relationships and digital property, and iterative icon and scenario design.
+
+1. Icon Set: The icon set focuses on the various states of digital property, services, and systems that allow for disconnecting, disentangling, or dissolving relational assets. One subgroup consists of icon badges that reflect the current state of files, images, and collections to be disassociated. Another subgroup accounts for services and systems that mediate disassociation, such as escrow servers or property disclosure algorithms.
+
+<figure>
+	<img src="/images/ddd/final/icons/objects/infrastructures.png">
+	<figcaption>Posture Studies</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="/images/ddd/final/icons/badges/discovery.png">
+	<img src="/images/ddd/final/icons/objects/digital-escrow.png">
+	<img src="/images/ddd/final/icons/objects/protected-wifi.png">
+	<figcaption>Badge to mark shared digital assets that need to be disclosed during the discovery process (left); icon for digital escrow (center); seal to mark a protected wireless network (right0.</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="/images/ddd/final/icons/badges/joint-ownership.png">
+	<img src="/images/ddd/final/icons/badges/joint-synced.png">
+	<img src="/images/ddd/final/icons/badges/joint-view.png">
+	<figcaption>Badge for jointly owned assets (left); badge for jointly synced assets (center); badge for jointly viewable assets (right).</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="/images/ddd/final/icons/badges/locked-from-view.png">
+	<img src="/images/ddd/final/icons/badges/mutually-deleted.png">
+	<img src="/images/ddd/final/icons/badges/transferred-ownership.png">
+	<figcaption>Badge for assets that are able to be possessed but not viewed (left); badge for mutually deleted asset (center); badge for asset with transferred ownership (right).</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/final/icons/objects/files-types.png">
+	<figcaption>Badges applied to various standard computer file types.</figcaption>
+</figure>
+
+
+
+2. Informational Documents: Extrapolating from the current state of divorce within Atlanta (Fulton County, GA), the project includes updated informational documents currently used during the divorce process. These include an updated Automatic Domestic Standing Order to account for digital protections and an informational pamphlet explaining the divorce process under these new protections.
+
+<figure>
+	<img src="/images/ddd/final/documents/DDD-pamphlet-side-A-01.png">
+	<figcaption>Division of Domestic Data public service pamphlet (side A).</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/final/documents/DDD-pamphlet-side-B-01.png">
+	<figcaption>Division of Domestic Data public service pamphlet (side B) with diagrammatic representation of digital property discovery, separation, and escrow.</figcaption>
+</figure>
+
+
+3. Situating Sketches: The sketches illustrate the various icons and ideas in context on social media and on local computing systems.
+
+<figure>
+	<img src="/images/ddd/final/sketches/local-files-01.png">
+	<figcaption>Local folders during the process of divorce.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/final/sketches/instagram-ver1.png">
+	<figcaption>Instagram compliance with DDD-EULA agreement.</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="/images/ddd/final/sketches/instagram-joint-01.png">
+	<img src="/images/ddd/final/sketches/instagram-transferownershop-01.png">
+	<img src="/images/ddd/final/sketches/instagram-untag-01.png">
+	<figcaption>Various actions within Instagram.</figcaption>
+</figure>
+
+
+##Process Sketches##
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-1.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-2.png">
+	<figcaption>Syncing (left); escrow (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-3.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-4.png">
+	<figcaption>Discovery (left); shared file types (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-5.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-6.png">
+	<figcaption>Protected infrastructures (left); locked from view for one or both parties (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-7.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-8.png">
+	<figcaption>Protected wireless and bluetooth (left); discovery/disclosure of shared assets (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-9.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-10.png">
+	<figcaption>Discovery and escrow servers (left); transferred and deleted shared profile (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-11.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-12.png">
+	<figcaption>From escrowed to dividing/unshared assets (left); protected wireless and bluetooth, alternate (right).</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/icon-sketch-set-2/div-files.png">
+	<figcaption>Posture Studies</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/icon-sketch-set-2/infra-div.png">
+	<figcaption>Posture Studies</figcaption>
+</figure>
+
+
+
+[^1]: [Automatic Domestic Standing Order](www.fultoncourt.org%2Ffamily%2Fforms%2Fautomatic_domestic_standing_order.pdf)
+[^2]: Currently, health and car insurance are compulsory.
