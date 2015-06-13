@@ -69,7 +69,7 @@ Addressing these questions probes larger questions within digital media scholars
 The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
 
 <figure>
-	<img src="/images/ddd/scenario-second-sketch/ddd-escrow-01.png">
+	<img src="/images/ddd/scenario-second-sketch/dd-escrow-01.png">
 	<figcaption>During divorce, financial assets are often placed in escrow while their division is being determined. How would digital assets be placed in escrow?</figcaption>
 </figure>
 
