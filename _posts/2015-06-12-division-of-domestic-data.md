@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Division of Domestic Data"
+title: "The Division of Domestic Data"
 category: portfolio
 modified: 2015-02-15 23:24:49 -0500
 tags: [design research, research-through-design, icons, speculative civics]
@@ -15,7 +15,7 @@ share:
 
 ##Background##
 
-When filing for divorce in Fulton County (Atlanta, Georgia, USA), an Automatic Domestic Standing Order goes into effect for "all cases which are filed in the Family Division of the Superior Court of Fulton County and remains in effect as long as the case is pending." [^1] While some of the articles relate to the procedure of the open case (e.g. obligatory appearance in court), the Automatic Domestic Standing Order of Fulton County primarily serves the purpose of maintaining any and all current domestic responsibilities. Maintanance of responsibilities the means preventing either party listed in a divorce case from certain actions related to shared property, children, or benefits.  
+When filing for divorce in Fulton County (Atlanta, Georgia, USA), an Automatic Domestic Standing Order goes into effect for "all cases which are filed in the Family Division of the Superior Court of Fulton County and remains in effect as long as the case is pending." [^1] While some of the articles relate to the procedure of the open case (e.g. obligatory appearance in court), the Automatic Domestic Standing Order of Fulton County primarily serves the purpose of maintaining any and all current domestic responsibilities. Maintenance of responsibilities the means preventing either party listed in a divorce case from certain actions related to shared property, children, or benefits.  
 
 <figure class="half">
 	<img src="/images/ddd/background/article5.png">
@@ -27,14 +27,14 @@ There are two notable aspects to this document. The first point of interest is A
 
 >"Each party to a divorce or separate maintenance action is hereby enjoined and restrained from selling, encumbering, trading, contracting to sell, or otherwise disposing or removing from Fulton County, any of the property belonging to the parties except in the ordinary course of business."
 
-The term *property* refers to moveable physical property&mdash;things that take up space and have value, monetary or otherwise. While one might possess digital things, such as mp3 collections or digital photos, property refers only to physical possessions. In short, a computer is property, while its files (save registered intellectual property) are not. As many possessions have become digital, this oversight with regards to digital possessions presents a contemporary issue.
+The term *property* refers to movable physical property&mdash;things that take up space and have value, monetary or otherwise. While one might possess digital things, such as mp3 collections or digital photos, property refers only to physical possessions. In short, a computer is property, while its files (save registered intellectual property) are not. As many possessions have become digital, this oversight with regards to digital possessions presents a contemporary issue.
 
 The other noteworthy aspect is found in Article 6. It reads:
 
 >"Each party to a divorce, custody, separate maintenance or modification of support action is
 hereby enjoined and restrained from altering, suspending or terminating any active insurance coverage." 
 
-Like other provisions, Article 6 ensures that existing responsibilities are maintained. A spouse cannot cancel any car, health, or life insurance without being in violation of the standing court order, and so in contempt of court. We can understand Article 6 as a guarentee against undue burden. Since insurance is compulsory[^2] in many instances, cancelling said insurance conscripts another into purchasing new insurance. If we understand Article 6 as a guarentee against undue burden, then other subscriptions seem to require stipulation. As many professions and schooling require internet connectivity and/or mobile phones, cancellation of these services might be viewed as undue burden.
+Like other provisions, Article 6 ensures that existing responsibilities are maintained. A spouse cannot cancel any car, health, or life insurance without being in violation of the standing court order, and so in contempt of court. We can understand Article 6 as a guarantee against undue burden. Since insurance is compulsory[^2] in many instances, canceling said insurance conscripts another into purchasing new insurance. If we understand Article 6 as a guarantee against undue burden, then other subscriptions seem to require stipulation. As many professions and schooling require internet connectivity and/or mobile phones, cancellation of these services might be viewed as undue burden.
 
 ##Framing##
 
@@ -50,7 +50,7 @@ Given the discussion of Article 5 and 6 of the Automatic Domestic Standing Order
 <figure class="half">
 	<img src="/images/ddd/scenario-first-sketch/usb-drive.png">
 	<img src="/images/ddd/scenario-first-sketch/router-2-01.png">
-	<figcaption>How would digital property and digital infrastruture be handled in the event of a divorce?</figcaption>
+	<figcaption>How would digital property and digital infrastructure be handled in the event of a divorce?</figcaption>
 </figure>
 
 Addressing these questions probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
