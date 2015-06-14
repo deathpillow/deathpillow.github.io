@@ -15,7 +15,7 @@ share:
 
 ##Background##
 
-When filing for divorce in Fulton County (Atlanta, Georgia, USA), an Automatic Domestic Standing Order goes into effect for "all cases which are filed in the Family Division of the Superior Court of Fulton County and remains in effect as long as the case is pending." [^1] While some of the articles relate to the procedure of the open case (e.g. obligatory appearance in court), the Automatic Domestic Standing Order of Fulton County primarily serves the purpose of maintaining any and all current domestic responsibilities. Maintenance of responsibilities the means preventing either party listed in a divorce case from certain actions related to shared property, children, or benefits.  
+When filing for divorce in Fulton County (Atlanta, Georgia, USA), an Automatic Domestic Standing Order goes into effect for "all cases which are filed in the Family Division of the Superior Court of Fulton County and remains in effect as long as the case is pending." [^1] While some of the articles relate to the procedure of the open case (e.g. obligatory appearance in court), the Automatic Domestic Standing Order of Fulton County primarily serves the purpose of maintaining any and all current domestic responsibilities. Maintenance of responsibilities means preventing either party listed in a divorce case from certain actions related to shared property, children, or benefits.  
 
 <figure class="half">
 	<img src="/images/ddd/background/article5.png">
@@ -27,20 +27,22 @@ There are two notable aspects to this document. The first point of interest is A
 
 >"Each party to a divorce or separate maintenance action is hereby enjoined and restrained from selling, encumbering, trading, contracting to sell, or otherwise disposing or removing from Fulton County, any of the property belonging to the parties except in the ordinary course of business."
 
-The term *property* refers to movable physical property&mdash;things that take up space and have value, monetary or otherwise. While one might possess digital things, such as mp3 collections or digital photos, property refers only to physical possessions. In short, a computer is property, while its files (save registered intellectual property) are not. As many possessions have become digital, this oversight with regards to digital possessions presents a contemporary issue.
+The term *property* refers to movable physical property&mdash;things that take up space and have value, monetary or otherwise. While one might possess digital things, such as mp3 collections or digital photos, property refers only to physical possessions. In short, a computer is property, while its files (save registered intellectual property) are not in the context of the Automatic Domestic Standing Order. As many possessions have become digital, Article 5 presents an issue for how to account for possessions that have value and can be owned, yet are not physical.
 
-The other noteworthy aspect is found in Article 6. It reads:
+The second point of interest is found in Article 6. It reads:
 
 >"Each party to a divorce, custody, separate maintenance or modification of support action is
 hereby enjoined and restrained from altering, suspending or terminating any active insurance coverage." 
 
-Like other provisions, Article 6 ensures that existing responsibilities are maintained. A spouse cannot cancel any car, health, or life insurance without being in violation of the standing court order, and so in contempt of court. We can understand Article 6 as a guarantee against undue burden. Since insurance is compulsory[^2] in many instances, canceling said insurance conscripts another into purchasing new insurance. If we understand Article 6 as a guarantee against undue burden, then other subscriptions seem to require stipulation. As many professions and schooling require internet connectivity and/or mobile phones, cancellation of these services might be viewed as undue burden.
+Like other provisions, Article 6 ensures that existing responsibilities are maintained. A spouse cannot cancel any car, health, or life insurance without being in violation of the standing court order, and so in contempt of court. We can understand Article 6 as a guarantee against undue burden. Since insurance is compulsory[^2] in many instances, canceling said insurance conscripts another into purchasing new insurance. If we understand Article 6 as a guarantee against undue burden, then other subscriptions seem to require stipulation. As many professions and schooling require internet connectivity and/or mobile phones, cancellation of these services might be viewed as undue burden. Again, the Automatic Domestic Standing Order presents an issue for how to account for the cancellation of services that lead to undue burden.
 
 ##Framing##
 
 Given the discussion of Article 5 and 6 of the Automatic Domestic Standing Order of Fulton County, the project speculates:
 
->How would provisions within an Automatic Domestic Standing Order that accommodate shared digital possessions and digital infrastructure be reflected in the process of divorce? And, how would such provisions impact our everyday use of computational technologies that are subject to local, state, or federal rules around contractual obligation (e.g. marriage)?
+>How would provisions within an Automatic Domestic Standing Order accommodate shared digital possessions, services, and infrastructures during the process of divorce? 
+
+While this question could be answered in a very direct way, the project explores the way digital objects&mdash;files, folders, profiles, servers, queries, and so on&mdash;might become expressive of the local, state, or federal rules around the contractual obligations of marriage and the litigious implications of dividing property during divorce.
 
 <figure>
 	<img src="/images/ddd/final/documents/DDD-standing-order-full-01.png">
@@ -53,7 +55,7 @@ Given the discussion of Article 5 and 6 of the Automatic Domestic Standing Order
 	<figcaption>How would digital property and digital infrastructure be handled in the event of a divorce?</figcaption>
 </figure>
 
-Addressing these questions probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
+Speculating these implications probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
 
 *the nature of possessions and possessing in a digital era*
 
@@ -66,7 +68,7 @@ Addressing these questions probes larger questions within digital media scholars
 	<figcaption>The seal for the Division of Domestic Data</figcaption>
 </figure>
 
-The project does not attempt to answer these questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce.
+The project does not attempt to answer any questions. Instead the goal is to explore pressure points in and amongst the process of divorce that highlight these contested and flexible territories with regards to the digital. *The Division of Domestic Data* focuses primarily on the mundane and bureaucratic aspects of divorce by looking at how digital objects might be labeled and controlled through algorithmic and procedural means.
 
 <figure>
 	<img src="/images/ddd/scenario-second-sketch/dd-escrow-01.png">
@@ -85,7 +87,7 @@ The project does not attempt to answer these questions. Instead the goal is to e
 
 ##Outcomes##
 
-*The Division of Domestic Data* consists of three outputs: an icon set, a series of informational documents, and a series of situating sketches. These outcomes were produced using a research-through-design methodology: deep immersion in the contemporary processes of divorce, cataloging of existing icons related to relationships and digital property, and iterative icon and scenario design.
+*The Division of Domestic Data* consists of three outcomes: an icon set, a series of informational documents, and a series of situating sketches. These outcomes were produced using a research-through-design methodology: deep immersion in the contemporary processes of divorce, cataloging of existing icons related to relationships and digital property, and iterative icon and scenario design.
 
 ###Icon Set###
 
@@ -125,7 +127,7 @@ The icon set focuses on the various states of digital property, services, and sy
 
 ###Informational Documents###
 
-Extrapolating from the current state of divorce within Atlanta (Fulton County, GA), the project includes updated informational documents currently used during the divorce process. These include an updated Automatic Domestic Standing Order to account for digital protections and an informational pamphlet explaining the divorce process under these new protections.
+Extrapolating from the current state of divorce within Atlanta (Fulton County, GA), the project includes updated informational documents currently used during the divorce process. An updated Automatic Domestic Standing Order accounts for protections of digital possessions and services. A state-sponsored informational pamphlet explain the divorce process under these new protections.
 
 <figure>
 	<img src="/images/ddd/final/documents/DDD-pamphlet-side-A-01.png">
@@ -140,7 +142,7 @@ Extrapolating from the current state of divorce within Atlanta (Fulton County, G
 
 ###Situating Sketches###
 
-The sketches illustrate the various icons and ideas in context on social media and on local computing systems.
+The sketches illustrate the various icons and ideas in context on social media and on local systems.
 
 <figure>
 	<img src="/images/ddd/final/sketches/local-files-01.png">
