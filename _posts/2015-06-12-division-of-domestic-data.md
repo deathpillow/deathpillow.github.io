@@ -55,7 +55,7 @@ While this question could be answered in a very direct way, the project explores
 	<figcaption>How would digital property and digital infrastructure be handled in the event of a divorce?</figcaption>
 </figure>
 
-Speculating these implications probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
+Speculating on these implications probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated and made expressive&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
 
 *the nature of possessions and possessing in a digital era*
 
