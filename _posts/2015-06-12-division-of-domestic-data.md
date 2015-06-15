@@ -224,16 +224,10 @@ The sketches illustrate the various icons and ideas in context on social media a
 
 <figure>
 	<img src="/images/ddd/process/status.png">
-	<figcaption>image showing available relationship statuses on Facebook.</figcaption>
+	<figcaption>Image showing relationship status dropdown menu on Facebook.</figcaption>
 </figure>
 
-<figure class="half">
-	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-5.png">
-	<img src="/images/ddd/process/status.png">
-	<figcaption>Protected infrastructures (left); image showing available relationship statuses on Facebook (right).</figcaption>
-</figure>
-
-<figure class="half">
+<figure>
 	<img src="/images/ddd/process/cookies.png">
 	<figcaption>Early sketch for a PHP-based relationship cookie.</figcaption>
 </figure>
