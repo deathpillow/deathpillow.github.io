@@ -164,10 +164,34 @@ The sketches illustrate the various icons and ideas in context on social media a
 
 ##Process Sketches##
 
+<figure class="third">
+	<img src="/images/ddd/process/collection-1.png">
+	<img src="/images/ddd/process/collection-2.png">
+	<img src="/images/ddd/process/collection-3.png">
+	<figcaption>Collection of existing icons.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/process/notebook-1.png">
+	<img src="/images/ddd/process/notebook-2.png">
+	<figcaption>Notebook sketches.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/process/notebook-3.png">
+	<img src="/images/ddd/process/notebook-4.png">
+	<figcaption>Notebook sketches.</figcaption>
+</figure>
+
 <figure class="half">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-1.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-2.png">
 	<figcaption>Syncing (left); escrow (right).</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/process/files-process.png">
+	<figcaption>Process document for file badges.</figcaption>
 </figure>
 
 <figure class="half">
@@ -177,15 +201,27 @@ The sketches illustrate the various icons and ideas in context on social media a
 </figure>
 
 <figure class="half">
-	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-5.png">
+	<img src="/images/ddd/process/fb-sketch.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-6.png">
-	<figcaption>Protected infrastructures (left); locked from view for one or both parties (right).</figcaption>
+	<figcaption>Functionality for online photo galleries (the note read: "This is a picture of your ex.") (left); locked from view for one or both parties (right).</figcaption>
 </figure>
 
 <figure class="half">
-	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-7.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-5.png">
+	<img src="/images/ddd/process/status.png">
+	<figcaption>Protected infrastructures (left); image showing available relationship statuses on Facebook (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/process/cookies.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-8.png">
-	<figcaption>Protected wireless and bluetooth (left); discovery/disclosure of shared assets (right).</figcaption>
+	<figcaption>Early sketch for a PHP-based relationship cookie (left); discovery/disclosure of shared assets (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/process/story-1.png">
+	<img src="/images/ddd/process/story-2.png">
+	<figcaption>Storyboard sketches.</figcaption>
 </figure>
 
 <figure class="half">
@@ -196,8 +232,20 @@ The sketches illustrate the various icons and ideas in context on social media a
 
 <figure class="half">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-11.png">
+	<img src="/images/ddd/process/unsharing-process.png">
+	<figcaption>From escrowed to dividing/unshared assets (left); process document of unsharing icon (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/process/wifi-sketch-2.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-12.png">
-	<figcaption>From escrowed to dividing/unshared assets (left); protected wireless and bluetooth, alternate (right).</figcaption>
+	<figcaption>Protected wifi sketch (left);protected wireless and bluetooth, alternate (right).</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-7.png">
+	<img src="/images/ddd/process/wifi-sketch-1.png">
+	<figcaption>Protected wireless and bluetooth (left); protected wifi sketch (right).</figcaption>
 </figure>
 
 
