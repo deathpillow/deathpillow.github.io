@@ -76,7 +76,7 @@ The project does not attempt to answer any questions. Instead the goal is to exp
 </figure>
 
 <figure>
-	<img src="/images/ddd/scenario-second-sketch/divided.png">
+	<img src="/images/ddd/scenario-second-sketch/divided-01.png">
 	<figcaption>How might files be designated as a product of divorce?</figcaption>
 </figure>
 
