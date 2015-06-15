@@ -164,23 +164,34 @@ The sketches illustrate the various icons and ideas in context on social media a
 
 ##Process Sketches##
 
-<figure class="third">
+<figure>
 	<img src="/images/ddd/process/collection-1.png">
+	<figcaption>Collection of existing icons (1 of 3).</figcaption>
+</figure>
+
+<figure>
 	<img src="/images/ddd/process/collection-2.png">
+	<figcaption>Collection of existing icons (2 of 3).</figcaption>
+</figure>
+
+<figure>
 	<img src="/images/ddd/process/collection-3.png">
-	<figcaption>Collection of existing icons.</figcaption>
+	<figcaption>Collection of existing icons (3 of 3).</figcaption>
 </figure>
 
-<figure class="half">
+<figure>
 	<img src="/images/ddd/process/notebook-1.png">
-	<img src="/images/ddd/process/notebook-2.png">
-	<figcaption>Notebook sketches.</figcaption>
+	<figcaption>Notebook sketches (1 of 3).</figcaption>
 </figure>
 
-<figure class="half">
-	<img src="/images/ddd/process/notebook-3.png">
+<figure>
+	<img src="/images/ddd/process/notebook-2.png">
+	<figcaption>Notebook sketches (2 of 3).</figcaption>
+</figure>
+
+<figure>
 	<img src="/images/ddd/process/notebook-4.png">
-	<figcaption>Notebook sketches.</figcaption>
+	<figcaption>Notebook sketches (3 of 3).</figcaption>
 </figure>
 
 <figure class="half">
@@ -200,10 +211,20 @@ The sketches illustrate the various icons and ideas in context on social media a
 	<figcaption>Discovery (left); shared file types (right).</figcaption>
 </figure>
 
-<figure class="half">
+<figure>
 	<img src="/images/ddd/process/fb-sketch.png">
+	<figcaption>Sketch for algorithmic face blocking in online photo galleries. The handwritten note read: "This is a picture of your ex."</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-5.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-6.png">
-	<figcaption>Functionality for online photo galleries (the note read: "This is a picture of your ex.") (left); locked from view for one or both parties (right).</figcaption>
+	<figcaption>Protected infrastructures (left); locked from view for one or both parties (right).</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ddd/process/status.png">
+	<figcaption>image showing available relationship statuses on Facebook.</figcaption>
 </figure>
 
 <figure class="half">
@@ -214,14 +235,23 @@ The sketches illustrate the various icons and ideas in context on social media a
 
 <figure class="half">
 	<img src="/images/ddd/process/cookies.png">
-	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-8.png">
-	<figcaption>Early sketch for a PHP-based relationship cookie (left); discovery/disclosure of shared assets (right).</figcaption>
+	<figcaption>Early sketch for a PHP-based relationship cookie.</figcaption>
 </figure>
 
 <figure class="half">
+	<img src="/images/ddd/process/notebook-3.png">
+	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-8.png">
+	<figcaption>Notebook sketches for discovery/disclosure icons (left); discovery/disclosure of shared assets (right).</figcaption>
+</figure>
+
+<figure>
 	<img src="/images/ddd/process/story-1.png">
+	<figcaption>Storyboard sketches (1 of 2).</figcaption>
+</figure>
+
+<figure>
 	<img src="/images/ddd/process/story-2.png">
-	<figcaption>Storyboard sketches.</figcaption>
+	<figcaption>Storyboard sketches (2 of 2).</figcaption>
 </figure>
 
 <figure class="half">
