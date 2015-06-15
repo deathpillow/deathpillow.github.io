@@ -194,6 +194,11 @@ The sketches illustrate the various icons and ideas in context on social media a
 	<figcaption>Notebook sketches (3 of 3).</figcaption>
 </figure>
 
+<figure>
+	<img src="/images/ddd/process/iconset-sketches.png">
+	<figcaption>Early digital sketches.</figcaption>
+</figure>
+
 <figure class="half">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-1.png">
 	<img src="/images/ddd/icon-sketch-set-1/ddd-sketch-2.png">
