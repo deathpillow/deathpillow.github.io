@@ -10,16 +10,14 @@ image:
   creditlink:
 ---
 
-I am currently a Doctoral Candidate in the [Digital Media program](http://dm.lmc.gatech.edu/) at the Georgia Institute of Technology. I am member of the [Public Design Workshop](http://publicdesignworkshop.net). I am advised by [Carl DiSalvo](http://carldisalvo.com/).
+I am currently a Postdoctoral Fellow in the [Center for Urban Innovation](http://www.urbaninnovation.gatech.edu/) at the Georgia Institute of Technology. I am affiliated with the [Public Design Workshop](http://publicdesignworkshop.net).
 
-My work focuses on contemporary design and development practices with particular attention to accounts of emerging contexts. I approach these sites through the lenses of the humanities, science and technology studies, media theory, design research/studies/management, and human-computer interaction. I take influence from workplace ethnographies, studies of the everyday, and empirical design theory. 
+My research focuses on the contemporary work practices of design and design(ing) as a metaphor for work(ing). I pay particular attention to discourses around design thinking, civics and civic innovation, and post-computational work (mobile, precarious, and contingent labor). Underwriting these interests is an attention to the materialities of design/work and the role of depictions (things, artifacts, and representations) in planning.
 
-## Dissertation: The Work of User Experience Design
+I approach these interests through the lenses of the humanities, science and technology studies, media theory, design research/studies/management, and human-computer interaction.  I take influence from workplace ethnographies, studies of the everyday, and empirical design theory.
 
-My dissertation work traces the everyday practices of user experience professionals at a large technology company (LTC). With a well-established tradition of engineering and a history of making high-end "ingredients" for computing systems, LTC is an odd setting for teams to discuss how end-users engage with finished systems. Even more, user experience has become a company-wide initiative to aid in innovation and future-casting. The dissertation is an ethnographic account of these practices based on six months of embedded fieldwork as a user experience researcher for LTC. 
-
-The goal of the dissertation is to understand the divide between modes of design thinking and design doing. Through studying user experience at LTC, I want to find out how such initiatives are developed into local and situated work activities. Such research offers a better understanding of the boundaries between design ideas and methods by focusing on how these ideas and methods are deployed in new ways and new contexts to address contemporary conditions within computational technology development. 
+I am graduate of the [Digital Media program](http://dm.lmc.gatech.edu/) at the Georgia Institute of Technology, where I was advised by [Carl DiSalvo](http://carldisalvo.com/).
 
 ## Areas of Study
 
-Empirical Design Theory, Design Practice, Public Design, Participatory Design, Civic Media, Social Computing, DIY Culture
+Empirical Design Theory, Design Practice, Public Design, Participatory Design, Civic Media, Civic Innovation, Social Computing, DIY Culture, Policy Design
