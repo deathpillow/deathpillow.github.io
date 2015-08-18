@@ -6,9 +6,13 @@ tags: [cv, Thomas James Lodato]
 modified: 2014-07-31
 ---
 
+##Current##
+
+Postdoctoral Fellow, Center for Urban Innovation, School of Public Policy, Georgia Institite of Technology, August 2015-present
+
 ##Education##
 
-Ph.D. in Digital Media, Georgia Institute of Technology, August 2010-present
+Ph.D. in Digital Media, Georgia Institute of Technology, August 2010-2015
 
 M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 
