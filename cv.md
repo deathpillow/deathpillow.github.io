@@ -19,17 +19,12 @@ M.S. in Digital Media, Georgia Institute of Technology, Aug. 2008-May 2010
 B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 
-##Publications, Proceedings & Presentations##
+##Publications & Proceedings##
 
 Lodato, Thomas and Carl DiSalvo. “Issue-Oriented Hackathons as Ad-Hoc Design Events.” In
-*Proceedings for the Fourth Participatory Innovation Conference.* The Hague, May 18-20 2015.
-
-Lodato, Thomas. "What is the Public?" on *Public Space Design Panel.* Center for Civic
-Innovation. Atlanta, GA. April 28 2015.
+*Proceedings for the Fourth Participatory Innovation Conference.* The Hague NL, May 18-20 2015.
 
 Lodato, Thomas and Carl DiSalvo. "Issue-Oriented Hackathons as Material Participation." *New Media and Society.* Forthcoming.
-
-DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andrew Schrock. "Civic Hacking (panel)." *Digital Labor 2014*, The New School, New York City, November 14-16 2014.
 
 Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
 
@@ -43,15 +38,22 @@ Acker, A., Chalmers, M., Burton, M., Wythoff, G., & Lodato, T.. (2013). “Learn
 
 DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “The Collective Articulation of Issues as Design Practice.” *CoDesign*, Vol. 7, No. 3-4 (2011): 185-197.
 
-The Patent Multiple, 4S, Cleveland OH, Fall 2011
 
-##Exhibits##
+##Presentations & Installations##
 
-G01N 23/20, or, 15 Questions to Ask 30 Patents, Georgia Tech Vision Salon, Atlanta GA, Spring 2011
+Lodato, Thomas. "What is the Public?" on *Public Space Design Panel.* Center for Civic
+Innovation. Atlanta, GA. April 28 2015.
 
-growbot Garden (as part of Public Design Workshop), 01SJ Biennial, San Jose CA, Fall 2010
+DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andrew Schrock. "Civic Hacking (panel)." *Digital Labor 2014*, The New School, New York City, November 14-16 2014.
 
-growBot Garden (as part of Public Design Workshop), BiodiverCity 47, Washington D.C., Fall 2010
+Lodato, Thomas. *The Patent Multiple.* Society for the Social Studies of Science Annual Meeting (Cleveland OH) Nov. 2011
+
+Georgia Tech Vision Salon (Atlanta GA) Spring 2011: *G01N 23/20, or, 15 Questions to Ask 30 Patents*
+
+01SJ Biennial (San Jose CA) Fall 2010: *growbot Garden* (as part of Public Design Workshop)
+
+BiodiverCity 47 (Washington D.C.) Fall 2010: *growBot Garden* (as part of Public Design Workshop)
+
 
 ##Teaching##
 
@@ -82,38 +84,14 @@ Food Data Hack, Public Design Workshop (Atlanta GA), Mar. 2013
 growBot Garden Workshops, Public Design Workshop (Atlanta GA & San Jose CA), Spring
 2009-Fall 2010
 
-##Research##
+##Funded Research##
 
-ISTC-Social: Collectivity & Creativity @ Public Design Workshop, led by Carl DiSalvo, 2012-present
+Intel Science and Technology Center for Social Computing (ISTC-Social): Collectivity & Creativity @ Public Design Workshop, Carl DiSalvo (PI), 2012-2015
 
-Public Design Futures @ Public Design Workshop, led by Carl DiSalvo, 2011-12
+Public Design Futures @ Public Design Workshop, Carl DiSalvo (PI), 2011-2012
 
-Surveillance + The City @ Public Design Workshop, led by Carl DiSalvo, 2011
+growBot Garden @ Public Design Workshop, Carl DiSalvo (PI), Summer 2010
 
-growBot Garden @ Public Design Workshop, led by Carl DiSalvo, Summer 2010
+Issue The Margins @ Public Design Workshop, Carl DiSalvo (PI), Summer 2009
 
-Issue The Margins @ Public Design Workshop, led by Carl DiSalvo, Summer 2009
-
-SpaceCam @ Digital World and Image Group (DWIG), led by Michael Nitsche, Fall 2008-Spring 2009
-
-##Professional Work##
-
-UX Research Intern, Intel Corporation (PC Client Group), Summer-Fall 2013
-
-App Developer, Front-End Designer, & UX, FlashIssue (Atlanta GA), Summer 2012-Spring 2013
-
-Web Designer & Developer (freelance), Elaina Designs (Atlanta GA), Summer 2009 & Fall 2010
-
-High School Math Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap GA), 2007-08
-
-##Skills##
-
-###Design###
-
-Adobe Suite
-
-Interaction Design, User Experience Research
-
-###Programming###
-
-Java, Processing, Arduino, HTML/CSS, PHP, javascript, ActionScript
+SpaceCam @ Digital World and Image Group (DWIG), Michael Nitsche (PI), 2008-2009
