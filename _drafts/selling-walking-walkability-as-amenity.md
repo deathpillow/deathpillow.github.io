@@ -11,28 +11,9 @@ image:
 comments: 
 share: 
 ---
-On the homepage for the service [Walk Score](https://www.walkscore.com/) appears the tagline "Live Where You Love". Just below this confusing/confused sentiment is a searchbar prompting the entry of an address, neighborhood, or city. I enter Atlanta, GA, which loads [an overview page of the City of Atlanta](https://www.walkscore.com/GA/Atlanta). At the top of this page, just above a map and description of the city, are three numbers&mdash;Walk Score: 46; Transit Score: 43; Bike Score: 50.  Without much additional context, these numbers assert that Atlanta is mediocre&mdash;middling on a hundred-point scale of non-automotive transit. The two paragraph overview of the city puts middling into words, concluding:
->Many of Atlanta’s neighborhoods have that 'small town in a big city' vibe that makes it a pleasant place to live, even if you have to commute. 
+On the homepage for the service [Walk Score](https://www.walkscore.com/) appears the tagline "Live Where You Love". Just below this confusing/confused sentiment is a searchbar prompting the entry of an address, neighborhood, or city. I enter Atlanta, GA (where I live or love or whatever). The browser loads [an overview page of the City of Atlanta](https://www.walkscore.com/GA/Atlanta). At the top of this page, just above a map and description of the city, are three numbers&mdash;Walk Score: 46; Transit Score: 43; Bike Score: 50.  Without much additional context, these numbers assert that Atlanta is mediocre&mdash;middling on a hundred-point scale of non-automotive transit. The two paragraph overview of Atlanta concludes, "Many of Atlanta’s neighborhoods have that 'small town in a big city' vibe that makes it a pleasant place to live, even if you have to commute." Following this description is a button that reads "Nearby Apartments". Clicking it brings me to map and list of available residental listings in Atlanta, each of which has been pulled from a partner site, such as ForRent.com, Promove.com, or RedFin.com
 
-The description is followed by a button that reads "Nearby Apartments". Clicking it brings me to map and list of available residental listings in Atlanta, each of which has been pulled from a partner site, such as ForRent.com, Promove.com, or RedFin.com
-
-As a resident of Atlanta for close to 8 years, I can anecdotally agree with the sentiments and judgements on this page. As a cyclist, walker, and public transit rider, I can confirm that Atlanta has mediocre pedestrian, cycling, and public transit infrastructure. Sidewalks in many neighborhoods are composed of hexagonal bricks that are up-turned by roots from the often tree-lined streets. Biking is hard in Atlanta&mdash;beyond the hills, heat, and humidity, traffic is dense, drivers are typically impatient, and bike lanes are rare (though increasing in numbers). As for public transit in Atlanta (MARTA, Metro Atlanta Rapid Transit Authority), rail lines have very low saturation, and buses are rendered inconsistent by traffic and illegible by a lack of clear signage (there are other issues with MARTA for sure). All told, Walk Score seems to get the gist of Atlanta pretty well. But Walk Score (and other services like it[^1]) is troubling for a few reasons, two of which I want to discuss here. 
-
-First, Walk Score is not a evaluation tool, though it masquarades as one. Instead, Walk Score is a brokering service that uses the gestures of "objective" reporting (often with an odd non-human tone) to create a seamless pipeline between those in need of housing and those providing it. The basic assumption of Walk Score's amenity approach to housing is that one makes choices about where to live based on what they want. For Walk Score, the city is a menu. Second, Walk Score is not for everyone, though anyone could use it. For many people, however, the city is anything but menu of options. While Walk Score claims to want to promote walkable neighborhoods, the service seems to mean promote those neighborhoods that are already walkable, ignoring that walking is important when the choice of where one lives is removed.
-
-##The City as Menu
-
-Much of the Walk Score site appears in the form of evidence based reporting. For example, the overview page for Atlanta is broken into subsections for each of the aforementioned scores, as well as a section for that reports on crime and a section of personal testimonies about life in Atlanta. The titles of the score sections read:
-
->Walk Score: 46. Atlanta is a Car-Dependent city. Most errands require a car.
-
->Transit Score: 43. Atlanta has Some Transit. A few nearby public transportation options. Find Atlanta apartments for rent near public transit.
-
->Bike Score: 50. Atlanta is Bikeable. Some bike infrastructure.
-
-The various sections provide heat maps, ranked listings, pull quotes, images, and, of course, relevant real estate listings. While much of Walk Score seems to evaluate cities, neighborhoods, and areas, Walk Score might be better understood as a *brokering service*, sitting between the supply and demand of a local land market. The copy, images, and various other information reads like, as I presume they are, dynamically generated copy, produced using a combination of boilerplate language, scrapped and generated data, and computationally defined output fields. Some of this information comes from Walk Score's own proprietary tools, and most appears to come from elsewhere, such as partner sites and publically accessible databases. This computationally arranged madlib of information offers a comprehensive representation of a city, which in turn is supposed to inform how people make decisions about where they live. Conveniently, Walk Score provides listings from partner sites to reduce the effort of a potential resident. These listings are also a revenue stream for Walk Score. What is concerning is that while Walk Score appears as a depoliticized third party offering nothing more than aggregation and evaluation, Walk Score is brokering information for some particular, though unnamed, user group.
-
-On the About page for [Walk Score page](https://www.walkscore.com/about.shtml)[^1], the website explains its mission as follows:
+Unclear of what the Walk Score is, what the numbers come from, and why these have anything to do with real estate listings and after some digging[^1], I come to the About page for [Walk Score page](https://www.walkscore.com/about.shtml). 
 >Walk Score's mission is to promote walkable neighborhoods. Walkable neighborhoods are one of the simplest and best solutions for the environment, our health, and our economy.
 
 Below this mission statement is the following graphic depiction of the world Walk Score envisions.
@@ -41,8 +22,33 @@ Below this mission statement is the following graphic depiction of the world Wal
     <figcaption>Screen capture from [Walk Score: About](https://www.walkscore.com/about.shtml)</figcaption>
 </figure>
 
-The next section entitled "Our Vision" reads:
+While Walk Score seems to be some sort of advocacy group, the next section entitled "Our Vision" gets to the heart of matters:
 >Our vision is for every property listing to read: Beds: 3 Baths: 2 Walk Score: 84. We want to make it easy for people to evaluate walkability and transportation when choosing where to live.
+
+First, Walk Score is not a evaluation tool, though it masquarades as one. Instead, Walk Score is a brokering service that uses the gestures of objective reporting to create a seamless pipeline between those in need of housing and those providing it. The basic assumption of Walk Score's amenity approach to housing is that one makes choices about where to live based on what they want. For Walk Score, the city is a menu. Second, Walk Score is not for everyone, though anyone could use it. For many people, however, the city is anything but menu of options. While Walk Score claims to want to promote walkable neighborhoods, the service seems to mean promote those neighborhoods that are already walkable, ignoring that walking is important when the choice of where one lives is removed.
+
+##The City as Menu
+
+Much of the Walk Score site appears in the form of evidence-based reporting, what might be conferred the catchall objective. For example, the overview page for Atlanta is broken into subsections for each of the aforementioned scores, as well as a section for that reports on crime and a section of personal testimonies about life in Atlanta. The titles of the score sections read:
+
+>Walk Score: 46. Atlanta is a Car-Dependent city. Most errands require a car.
+
+>Transit Score: 43. Atlanta has Some Transit. A few nearby public transportation options. Find Atlanta apartments for rent near public transit.
+
+>Bike Score: 50. Atlanta is Bikeable. Some bike infrastructure.
+
+The language used here is worth reflection (see todo)...
+
+The various sections provide heat maps, ranked listings, pull quotes, images, and, of course, relevant real estate listings. 
+
+As a resident of Atlanta for close to 8 years, I can anecdotally agree with the sentiments and judgements on this page. As a cyclist, walker, and public transit rider, I can confirm that Atlanta has mediocre pedestrian, cycling, and public transit infrastructure. Sidewalks in many neighborhoods are composed of hexagonal bricks that are up-turned by roots from the often tree-lined streets. Biking is hard in Atlanta&mdash;beyond the hills, heat, and humidity, traffic is dense, drivers are typically impatient, and bike lanes are rare (though increasing in numbers). As for public transit in Atlanta (MARTA, Metro Atlanta Rapid Transit Authority), rail lines have very low saturation, and buses are rendered inconsistent by traffic and illegible by a lack of clear signage (there are other issues with MARTA for sure). All told, Walk Score seems to get the gist of Atlanta pretty well. But Walk Score (and other services like it[^1]) is troubling for a few reasons, two of which I want to discuss here. 
+
+While much of Walk Score seems to evaluate cities, neighborhoods, and areas, Walk Score might be better understood as a *brokering service*, sitting between the supply and demand of a local land market. The copy, images, and various other information reads like, as I presume they are, dynamically generated copy, produced using a combination of boilerplate language, scrapped and generated data, and computationally defined output fields. Some of this information comes from Walk Score's own proprietary tools, and most appears to come from elsewhere, such as partner sites and publically accessible databases. This computationally arranged madlib of information offers a comprehensive representation of a city, which in turn is supposed to inform how people make decisions about where they live. Conveniently, Walk Score provides listings from partner sites to reduce the effort of a potential resident. These listings are also a revenue stream for Walk Score. What is concerning is that while Walk Score appears as a depoliticized third party offering nothing more than aggregation and evaluation, Walk Score is brokering information for some particular, though unnamed, user group.
+
+
+
+//todo
+Explain 'objective' in this context. The tone of objectivity is cultivated by displacing the human. As such, the characteristics of walkability, bikeability, and public transit use are located in the objects of infrastructures of walking, biking, and public transit rather than the activities of walking, biking, and riding transit. In doing so, the walkability, that is the ability to walk, becomes a disposition of things rather than of people. Without mentioning the body, these terms become a mode of depoliticizing the terms of walkability, that is, infrastructural investment is never about the city as an object but the city as composed of subjects.
 
 ##Choosing What Is Left is Not Choosing At All
 
