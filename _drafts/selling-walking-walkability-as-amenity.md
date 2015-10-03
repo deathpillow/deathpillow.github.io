@@ -27,6 +27,9 @@ While Walk Score seems to be some sort of advocacy group, the next section entit
 
 First, Walk Score is not a evaluation tool, though it masquarades as one. Instead, Walk Score is a brokering service that uses the gestures of objective reporting to create a seamless pipeline between those in need of housing and those providing it. The basic assumption of Walk Score's amenity approach to housing is that one makes choices about where to live based on what they want. For Walk Score, the city is a menu. Second, Walk Score is not for everyone, though anyone could use it. For many people, however, the city is anything but menu of options. While Walk Score claims to want to promote walkable neighborhoods, the service seems to mean promote those neighborhoods that are already walkable, ignoring that walking is important when the choice of where one lives is removed.
 
+##What the fuck is walkability anyway?
+
+
 ##The City as Menu
 
 Much of the Walk Score site appears in the form of evidence-based reporting, what might be conferred the catchall objective. For example, the overview page for Atlanta is broken into subsections for each of the aforementioned scores, as well as a section for that reports on crime and a section of personal testimonies about life in Atlanta. The titles of the score sections read:
