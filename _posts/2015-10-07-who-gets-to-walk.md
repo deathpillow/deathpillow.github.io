@@ -11,6 +11,8 @@ image:
 comments: 
 share: 
 ---
+*This post is adapted from a lecture I gave in a co-taught course titled "Urban and Regional Policy Analysis and Practice" (PUBP 6604, Fall 2015).*
+-
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A6LgG7yvuD791JlfCMaioPS" width="500" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 In 1982, the band Missing Persons released a song titled "Walking in L.A." on their debut album, *Spring Session M.* Quintessentially new wave, the song brims with alien synthesizers, power riffs, and female staccato vocals. The lyrics open with a person passing through the city by car, questioning what she sees as she moves quickly through Los Angeles. Moving through the city quickly, she tries to reconcile what can be nothing other than a figment of her imagination&mdash;a man on the street. She resists, "I won't be fooled by a cheap cinematic trick/It must have been just a cardboard cut out of a man." The chorus enters after this short four-line verse: "Walkin' in L.A./Walkin' in L.A., nobody walks in L.A.". These statements seem punctuated by implicit interrobangs; her eyes must be playing tricks on her. Cops don't walk "the beat" in L.A.; residents don't walk unless they "just ran out of gas" or are lost; kids and mothers utilize carpools to remain isolated from the streets. As much as the song claims that nobody walks in L.A., it also catalogs who *does* walk in L.A. The image of a man on the street must be a cardboard cut-out because L.A. is crawling with "freeway strangler[s]", "shopping cart pusher[s]", hippies ("someone groovie [sic]"), and unnamed street dwellers who aren't "starring in the movies". In L.A., walking is something left to the unfortunate dregs of society, those people cast onto the street by circumstances or predilections that put them outside of mention. *Nobody* walks in L.A. means nobody worth mentioning as somebody.
@@ -60,10 +62,11 @@ In her collection of essays titled "Men Explain Things to Me", author Rebecca So
 
 Solnit cuts to the heart of the matter, here in terms of gender. Walking isn't something that is simply a matter of having sidewalks and streetlights. To walk is to be in the world. While environments support walking, i.e. walkability, no environment can account for walking itself. While efforts to improve walkability in cities are important, those efforts are inherently unevenly distributed to different people because of the bodies implied in walking. Other forces are play in who walks ([even in the daytime](http://www.ihollaback.org/)). While Solnit is concerned with the gendering of behavior, gender is but on marker of difference. Race, as the ACLU points out about ["driving while black"](https://www.aclu.org/report/driving-while-black-racial-profiling-our-nations-highways), impacts who is allowed to do what where. Walkability, cast in a neutral light of a public good, is not excused from these realities.
 
---
+-
 
 While public sentiment is changing, writ large, the catchy pop song "Walking in L.A." highlights that sentiment plays a huge part. Beyond building new sidewalks, mobility requires sociocultural restructuring. In trying to counter the many decisions already made in a car-centered cities of what to fund and fix, there is parity in the cultural realm of what to value and what to idealize. Even more, these cultural imaginaries are not uniformly distributed, and imply some bodies and not others. As such, it is important to understand the circulations of culture, as much as the circulations of traffic, that define cities and the decisions therein. Maybe now we can update the claim that "nobody walks" to "certain people walk."
 
+--
 
 [^1]: Bean, C. E., Kearns, R., & Collins, D. (2008). Exploring Social Mobilities: Narratives of Walking and Driving in Auckland, New Zealand. Urban Studies, 45(13), 2829–2848. p. 2832
 [^2]: McLuhan, M. (1994). Understanding media: The extensions of man. MIT press.
