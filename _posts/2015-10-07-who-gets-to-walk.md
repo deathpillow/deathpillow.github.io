@@ -11,7 +11,7 @@ image:
 comments: 
 share: 
 ---
-*This post is adapted from a lecture I gave in a co-taught course titled "Urban and Regional Policy Analysis and Practice" (PUBP 6604, Fall 2015).*
+*This post is adapted from a lecture I gave in a co-taught course titled "Urban and Regional Policy Analysis and Practice" (PUBP 6604, Fall 2015, co-taught with Dr. Jennifer Clark)*
 -
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A6LgG7yvuD791JlfCMaioPS" width="500" height="380" frameborder="0" allowtransparency="true"></iframe>
 
