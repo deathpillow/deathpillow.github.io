@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The examples we keep"
+title: "Workplace diversity as distraction politics"
 category: thoughts
 modified: 2014-05-29 13:59:21 -0400
 tags: [design research, unit of analysis, users]
@@ -11,7 +11,9 @@ image:
 comments: 
 share: 
 ---
-The lack of diversity in the computational technology industry 
+The lack of diversity in the computational technology industry [notes: gender, comp tech,]
+
+Workplace diversity will never change the conversation if the conversation's terms are not changed themselves.
 
 ##Discounting expertise and "discount experts"
 In a noisy tapas restaurant in Atlanta, Georgia, Steve provides some historical perspective on social science research at his company. Steve is a human factors engineer and works at LTC, a multinational computational technology company that has long specialized in engineering and manufacturing components and subsystems for computing systems. I spent six-months at LTC, embedded as a user experience researcher in order to observe the work practices of designers, engineers, managers, and other employees. While LTC is known for engineering, engineering does not necessarily account for the social, historical, or cultural processes important to understanding and making new computing products. As Steve explains, over the last twenty years, LTC has increased the number of social science researchers to provide insight as much as attention to concerns outside of the scope of technical engineering. In recent years, social science research has fallen under the label of "user experience," an amorphous term and agenda that foregrounds the situated, contingent, and lived realities of users of computational systems. While I learned a great deal about the company's relationship with the social sciences while at LTC, Steve offers his lived experience of the many growing pains of working in an environment that was and is hostile to his contribution to the design and development of computational systems.[^1]
