@@ -11,9 +11,7 @@ image:
 comments: 
 share: 
 ---
-The lack of diversity in the computational technology industry is no mystery. While U.S. companies are required to report employee diversity statistics to the government, in recent years many, if not all, have turned this reporting into an event itself. Rather than the dry reporting of equal employment opportunity   (http://www.eeoc.gov/employers/eeo1survey/faq.cfm, note the 100+ employee threshold) [notes: gender, comp tech,]
-
-Workplace diversity will never change the conversation if the conversation's terms are not changed themselves.
+The lack of diversity in the computational technology industry is no mystery. While U.S. companies are required to report employee diversity statistics to the government, in recent years this reporting has become more promotion than requirement. Rather than the dry, bureaucratic reporting of official filing documents, companies like Apple, Amazon, and Google have devoted webpages that explain their efforts to be more inclusive. These webpages combine graphical representations of reported statistics, images of an increasingly diverse workforce, and written commitments to continuing these efforts. With increasing attention and pressure to employee more women and people of color, it is no surprise tech companies want to highlight what they are doing to meet their critics. While these efforts often fall under the banner of full transparency, these diversity reporting webpages might be more cynically read as a form of first-strike publicity&mdash;cut off the the critique before it begins. 
 
 <figure>
     <img src="/images/diversity/Google-2014-diversity-reporting.png">
@@ -30,12 +28,20 @@ Workplace diversity will never change the conversation if the conversation's ter
     <figcaption>[Apple's 2015 Diversity Reporting](http://www.apple.com/diversity/)(see Appendix 1 for more detailed reporting)</figcaption>
 </figure>
 
-From an open letter from Tim Cook "We are proud of the progress we’ve made, and our commitment to diversity is unwavering. But we know there is a lot more work to be done.
+Typical of these diversity reporting pages is language that is both apologetic and aspirational. A prime example of comes from an open letter from Apple CEO, Tim Cook, on their page [http://www.apple.com/diversity/](http://www.apple.com/diversity/). He writes: 
 
-Some people will read this page and see our progress. Others will recognize how much farther we have to go. We see both. And more important than these statistics, we see tens of thousands of Apple employees all over the world, speaking dozens of languages, working together. We celebrate their differences and the many benefits we and our customers enjoy as a result."[http://www.apple.com/diversity/](http://www.apple.com/diversity/)
+>We are proud of the progress we’ve made, and our commitment to diversity is unwavering. But we know there is a lot more work to be done. Some people will read this page and see our progress. Others will recognize how much farther we have to go. We see both. And more important than these statistics, we see tens of thousands of Apple employees all over the world, speaking dozens of languages, working together. We celebrate their differences and the many benefits we and our customers enjoy as a result." [^!]
+
+Cook's open letter is clever. It both commends what has been done and seeks out more progress. As a rhetorical move, this joint recognition sets up clear terms for disengaging critique. As such, critics can only be too harsh, expecting too much, or simply pushing their own agenda since Cook is never claiming to have accomplished anything. The final two sentences further this positioning, shifting focus from numbers that reveal inadequacies to celebratory language that recasts numbers as people. Cook shifts the problem from one of demand to one of supply&mdash;Apple is trying to hire people, so where are they? 
+
+Without going further down this While the numbers hide particular scalar aspects of how un-diverse companies like Apple are, the numbers also hide the work cultures underlying hiring for diversity.
+
+(http://www.eeoc.gov/employers/eeo1survey/faq.cfm, note the 100+ employee threshold) [notes: gender, comp tech,]
+
+Workplace diversity will never change the conversation if the conversation's terms are not changed themselves.
 
 ##Discounting expertise and "discount experts"
-In a noisy tapas restaurant in Atlanta, Georgia, Steve provides some historical perspective on social science research at his company. Steve is a human factors engineer and works at LTC, a multinational computational technology company that has long specialized in engineering and manufacturing components and subsystems for computing systems. I spent six-months at LTC, embedded as a user experience researcher in order to observe the work practices of designers, engineers, managers, and other employees. While LTC is known for engineering, engineering does not necessarily account for the social, historical, or cultural processes important to understanding and making new computing products. As Steve explains, over the last twenty years, LTC has increased the number of social science researchers to provide insight as much as attention to concerns outside of the scope of technical engineering. In recent years, social science research has fallen under the label of "user experience," an amorphous term and agenda that foregrounds the situated, contingent, and lived realities of users of computational systems. While I learned a great deal about the company's relationship with the social sciences while at LTC, Steve offers his lived experience of the many growing pains of working in an environment that was and is hostile to his contribution to the design and development of computational systems.[^1]
+In a noisy tapas restaurant in Atlanta, Georgia, Steve provides some historical perspective on social science research at his company. Steve is a human factors engineer and works at LTC, a multinational computational technology company that has long specialized in engineering and manufacturing components and subsystems for computing systems. I spent six-months at LTC, embedded as a user experience researcher in order to observe the work practices of designers, engineers, managers, and other employees. While LTC is known for engineering, engineering does not necessarily account for the social, historical, or cultural processes important to understanding and making new computing products. As Steve explains, over the last twenty years, LTC has increased the number of social science researchers to provide insight as much as attention to concerns outside of the scope of technical engineering. In recent years, social science research has fallen under the label of "user experience," an amorphous term and agenda that foregrounds the situated, contingent, and lived realities of users of computational systems. While I learned a great deal about the company's relationship with the social sciences while at LTC, Steve offers his lived experience of the many growing pains of working in an environment that was and is hostile to his contribution to the design and development of computational systems.[^+]
 
 Much of what Steve tells me recounts how his position as a human factors engineer morphed over time from mitigating errors to improving usability to supporting the desireous and aspirational qualities of people with products. While he still refers to his background as human factors engineering, his work now more closely aligns with the ethnographers, sociologists, cultural theorists, and design researchers he manages on his team, the Lab for Experience Research (or LER). In many of the descriptions, Steve constantly returns to the huge thorn in his side for the 20-some years he has worked at LTC&mdash;the methods he uses and their contribution to the design, engineering, and development of LTC's products are frequently subjected to scrutiny and doubt. In a particularly emotional account, Steve recounts:
 
@@ -55,7 +61,8 @@ During my field work, I often witnessed how UX was challenged. One of the most p
 
 Within the computational technology industry, the disparity between male and female employees is rather well documented (along with disparities related to persons of color, class, and geographic representation).
 
-[^1]: My dissertation, ["The Work of User Experience Design: Materiality and Cultures in Designing,"](#) explains a great deal more about the hostility toward social science research at LTC. 
+[^!]:
+[^+]: My dissertation, ["The Work of User Experience Design: Materiality and Cultures in Designing,"](#) explains a great deal more about the hostility toward social science research at LTC. 
 
 ###Appendix 1: Apple Diversity reporting
 
