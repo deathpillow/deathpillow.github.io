@@ -12,7 +12,7 @@ comments:
 share: 
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3884515/height/360/width/600/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="360" width="600" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3884515/height/360/width/600/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="100" width="600" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ###City in Question podcast, episode 1
