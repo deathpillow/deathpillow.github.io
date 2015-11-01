@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drones for Foraging and Post-Digital Cities (CIQ ep.2)"
+title: "Drones for Foraging and Post-Digital Cities"
 category: thoughts
 modified: 2015-11-01 09:59:02 -0500
 tags: []
