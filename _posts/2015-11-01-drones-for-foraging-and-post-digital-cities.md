@@ -15,4 +15,4 @@ share:
 
 ###City in Question podcast, episode 2
 
-In this episode, I speak with Dr. Carl Disalvo, an associate professor of Digital Media at the Georgia Institute of Technology. Carl explains his project Drone for Foraging, "a design project that explores the use of DIY and hobbyist drones in support of urban foraging." [[source]](http://dronesforforaging.com). With his project as a starting point, Carl and I discuss how this particular use of hobbyist drones reveals issues for how we imagine computation in the future and the role of designers in shaping our imagined urban landscape.
+In this episode, I speak with Dr. Carl DiSalvo, an associate professor of Digital Media at the Georgia Institute of Technology. Carl explains his project *Drones for Foraging*, "a design project that explores the use of DIY and hobbyist drones in support of urban foraging." [[source]](http://dronesforforaging.com). With his project as a starting point, Carl and I discuss how this particular use of hobbyist drones reveals issues for how we imagine computation in the future and the role of designers in shaping our imagined urban landscape.
