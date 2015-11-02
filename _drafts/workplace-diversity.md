@@ -106,4 +106,7 @@ Graphics and reporting from [Apple.com/diversity](http://www.apple.com/diversity
 
 
 
+With an organization of our size, meaningful change will take time. From one year to the next, bit by bit, our progress will inch forward. More importantly, our industry will become more inclusive, and the opportunities for currently underrepresented groups will grow. We’ll share our updated diversity data for 2015 soon. We’re gradually making progress across these four areas, and we’re in it for the long term.
+Posted by Nancy Lee, Vice President, People Operations
 
+In coordination with the launch of LeanIn.org, we built on the idea of peer mentoring groups by adding a senior leader advisor so that participants can benefit from both perspectives. --Amazon (http://www.amazon.com/b?node=10080092011)
