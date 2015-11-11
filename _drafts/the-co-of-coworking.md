@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The co of coworking"
+title: "The co in coworking"
 category: thoughts
 modified: 2015-11-08 14:00:34 -0500
 tags: [colocation, workers, coworking]
