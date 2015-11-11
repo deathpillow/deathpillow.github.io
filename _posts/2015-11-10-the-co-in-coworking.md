@@ -42,5 +42,5 @@ As these snippets of early research illustrate, understanding coworking spaces i
 ---
 
 [^1]: I spend some 250 pages lamenting the term "user experience" in my [dissertation](http://thomaslodato.info/portfolio/the-work-of-user-experience-design/) after witnessing people use UX with so much confidence at a company called LTC. When I finally decided that I would follow the term as my dissertation topic, I recall naively/glibly telling my advisor that the main research question was "What the hell is the term user experience anyway?"
-[^2]: "Co-." Merriam-Webster.com. Accessed November 8, 2015. http://www.merriam-webster.com/dictionary/co-.
-[^3]: http://doescoworkinghaveahyphen.com
+[^2]: "Co-." Merriam-Webster.com. Accessed November 8, 2015. [http://www.merriam-webster.com/dictionary/co-](http://www.merriam-webster.com/dictionary/co-).
+[^3]: [http://doescoworkinghaveahyphen.com](http://doescoworkinghaveahyphen.com)
