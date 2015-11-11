@@ -17,7 +17,7 @@ In very general terms, coworking spaces refer to a large category of short-term,
 
 What initially interested me about coworking spaces was less that these were a global phenomenon (I now know such spaces are everywhere, and maybe I should have known this already) and more that the term *coworking*&mdash;particularly the *co* part of coworking&mdash;was confusing given what I did know. Clearly coworking in the context of coworking spaces did not refer to some traditional notion of a coworker. While other people may not get quite as confused or confounded by terms as I do, I have found confusion of this nature to be very productive;[^1] hence, my current research into coworking spaces. 
 
-Early on in my post-doc I scrawled on the board in my office "What does *co* mean exactly?" Words fanned out from question, all punctuated with question marks: *Colocated? Collaborative? Cooperative? Collective? Communal?* While "what does *co* mean in coworking?" is not an answerable research question, it marked the beginning of my research.
+Early on in my post-doc I scrawled on the board in my office "What does *co* mean exactly?" Words fanned out from the question: *Colocated? Collaborative? Cooperative? Collective? Communal?* While "what does *co* mean in coworking?" is not an answerable research question, it marked the beginning of my research.
 
 The obvious answer was that *co* is just an English prefix, *co-* (|kəʊ|), that means: [^2]
 
