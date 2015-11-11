@@ -19,7 +19,7 @@ What initially interested me about coworking spaces was less that these were a g
 
 Early on in my post-doc I scrawled on the board in my office "What does *co* mean exactly?" Words fanned out from the question: *Colocated? Collaborative? Cooperative? Collective? Communal?* While "what does *co* mean in coworking?" is not an answerable research question, it marked the beginning of my research.
 
-The obvious answer was that *co* is just an English prefix, *co-* (|kəʊ|), that means: [^2]
+The obvious answer was that *co* is just an English prefix, *co-* (kəʊ), that means: [^2]
 
 1. with : together : joint : jointly <coexist>
 2. in or to the same degree <coextensive>
