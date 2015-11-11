@@ -24,8 +24,8 @@ The obvious answer was that *co* is just an English prefix, *co-* (kəʊ), that 
 1. with : together : joint : jointly <coexist>
 2. in or to the same degree <coextensive>
 3. 
-..a :  one that is associated in an action with another :  fellow :  partner <coauthor>
-..b :  having a usually lesser share in duty or responsibility :  alternate :  deputy <copilot>
+a:  one that is associated in an action with another :  fellow :  partner <coauthor>
+b:  having a usually lesser share in duty or responsibility :  alternate :  deputy <copilot>
 
 Definition 3a seems the most fitting. Coworking spaces are spaces where people are "associated in an action with another", i.e. as coworkers, engaged in working *together* with others, i.e. coworking.  While this might suffice to explain the name, such a definition seems to be but a gesture as most people in coworking spaces do not work together as much as alongside one another.
 
