@@ -26,3 +26,7 @@ The final result was a proposal for a photo and video social media campaign that
 The campaign approached these obstacles in turn. First, the campaign focused on the image of inline skating, and actively challenged notions that the sport was boring or dated. By encouraging those who skate to document their own involvement, the campaign enabled individuals to define the sport in their own images and actions. Second, the campaign featured a partnership with a company outside the sporting goods market (a manufacturer of smartphone camera lenses called Photojojo) that would attract some outside interest. As a pilot project, the campaign could serve a way to identify these newer participants and then target a subsequent campaign down the line.
 
 The [process booklet](/images/rb/Lodato-RB-final.pdf) shows the final report.
+
+The following is video made to explain the project.
+
+<iframe src="https://player.vimeo.com/video/54643264" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/54643264">EYE ROLL PROMO (prototype; Strategic Design Language final)</a> from <a href="https://vimeo.com/user2673985">Thomas James Lodato</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
