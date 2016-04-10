@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategic Design Language project"
+title: "Strategic Design Language project: Rollerblade"
 category: portfolio
 modified: 2016-04-10 17:45:33 -0400
 tags: [strategic design, design research, qualitative research]
