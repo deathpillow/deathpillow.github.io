@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/tjlodato
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thomaslodato.info
+  * I am tjlodato (https://keybase.io/tjlodato) on keybase.
+  * I have a public key with fingerprint 7077 8DE8 BC12 1906 99B3  F6D9 8794 2BC9 134E 8311
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d31da0cfbbf6fefee56d6f7b465399a6fd3220173cbb42b282ae5e170369f41e0a",
+            "fingerprint": "70778de8bc12190699b3f6d987942bc9134e8311",
+            "host": "keybase.io",
+            "key_id": "87942bc9134e8311",
+            "kid": "0101d31da0cfbbf6fefee56d6f7b465399a6fd3220173cbb42b282ae5e170369f41e0a",
+            "uid": "da95827013fff5f5d976d97ed1cdaa19",
+            "username": "tjlodato"
+        },
+        "service": {
+            "hostname": "thomaslodato.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470248383,
+    "expire_in": 157680000,
+    "prev": "9376cb88f899a8714ab6037bbae9f79fd4908daa0b81628ec0eb418e3471feaf",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJZSFVBGMevbZK0qW0UiZwypC5x5mwzc9tooyiDorSM7DJzzowel3Nu
+9x41M4k2KgqiskIkCMVsASMKbb8mBYmkQVhUPrQaQvUQFQWSzbF667F5Geab3/ef
+//9j7o0eGkhKyFuzpLw33tKd0HG3tjSwoU6PV0rUtSqkUKVUxAY3VmyxmBcusi0p
+JMlABpYKLCKbnFJucMYZ0w3L4JBqhq5iTAxuqYoiA6ialGoKVZBCmM4AlFUDcw0w
+mUhBidtOPotGorbjCVkoQ4gshqgJFIBlA2OqcsPCCGKhYGKgagypAIjGAjfmdwhz
+lMTYHNsVNXEID9r7B/+ffZcOylkE60iBMlA55zrXLQyFW8gsYFqEAOyDMRZ1SAkT
+tFdY7FrEc6WqoCSqZbbJ/MH6Sf4SBW4Jif2m5tgO90NFoq7nmm6xuC7wvEjI7/Yq
+Ij5ezmj4j1CY2o4lZikaylg0ZruOFAKCND3bVwYalBUNqUgNSmxbxI6ysO0TOjSQ
+LJb/DCsTkliFhkkR4kiMAkGgEWrIKqSUMMwh5paGZSSyyRQBQ0HMlBnVAGKqBgFn
+hEt+tK2OK4V0YZPkC8mYne8QrzTKpKq21s3DAglJgRHDh/h/LJA0ctzfn7dgc+LA
+qmtZhx4Wzmreu/Pb0plpzvx41/tw4dOMu5NOfDk4YV9y/4X2kak/dx9bnr4iZ1Lm
+tRt7g2tffT4xOfFR6+tbb76f//C84b15surq+Imn+qs5kZc+9upzP/U0Na6cUZU8
+yk3rXPa6J/tFTk3N4ts3cdmI1VpTxfEfb59sIfc7t6qL9h+7klWa8zHlYrDj0rbE
+cwOrYWt9h5YxRj0TX9689jotB9kpd3raI7mNeWMbZ5/d39aiZIDUmfxdUvr6roXd
+Tu6BTW2HS7YHyudu7Btf2dv0rPPIllG8bsy89j2HL/ekTp/d2Tct7euUrJQF2Q2Z
+tT9edlSv23WD74h7Cx+kV9fm3Tt65vTUXy/3RFo=
+=B3j8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tjlodato
+
+==================================================================
