@@ -6,7 +6,7 @@ require "stringex"
 
 posts_dir       = "_posts"    # directory for blog files
 drafts_dir      = "_drafts"  # directory for draft files
-default_cat     = "thoughts"
+default_cat     = "blog"
 new_post_ext    = "md"  # default new post file extension when using the new_post task
 new_page_ext    = "md"  # default new page file extension when using the new_page task
 
@@ -59,10 +59,12 @@ task :publish_draft, :title do |t, args|
     puts Dir["#{drafts_dir}/*"]
     puts ""
     title = get_stdin("Enter the title for the draft you want to publish: ")
+    category = "#{default_cat}"
+    category  = get_stdin("Enter category for your draft post: ") if ask("Is this post in a category other than #{default_cat}", ['y','n']) == 'y'
   end
   filename = "#{drafts_dir}/#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
-    new_name = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+    new_name = "#{posts_dir}/#{category}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
     File.rename(filename,new_name)
   else
     abort("No file with the name #{filename} exists. rake aborted!")

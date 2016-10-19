@@ -1,73 +1,59 @@
-title:            Thomas James Lodato
-description:      design researcher
-logo:             site-logo.png
-disqus_shortname: #sosimpletheme
-search:           true
-#Comment out url when working locally to resolve base urls correctly
-url:              http://thomaslodato.info
+# Site wide configuration
 
-# Owner/author information
-owner:
-  name:           Thomas James Lodato
-  avatar:         #michael-rose-photo.jpg
-  email:          thomas.lodato@gatech.edu
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        "thomas_lodato"
-  facebook:       #
-  github:         "deathpillow"
-  linkedin:       "thomas-lodato/7a/a29/41a/"
-  instagram:      #
-  tumblr:         #
-  stackexchange:  
-  flickr:                 
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    #"http://plus.google.com/118238196859537351707"
+title: Thomas James Lodato
+locale: en_US
+description: post-digital work, design research, labor politics
+logo: site-logo.png
+search: true
+url: http://thomaslodato.info
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   #UA-2011187-2
-google_verify:      #UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        #D81F4C18A6CB3018F64D7C827D953DFD   
+# Jekyll configuration
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Bio
-    url: /bio/
-  - title: CV
-    url: /cv/
-  - title: Thoughts
-    url: /thoughts/
-  - title: Portfolio
-    url: /portfolio/
-  #- title: Theme Setup
-    #url: /theme-setup/
-  #- title: Made Mistakes
-   # url: http://mademistakes.com
-    #external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  toc_levels: 1..2
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+mathjax: true
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Thomas James Lodato
+  avatar: bio-photo.jpg
+  email: thomas.lodato@gmail.com
+  disqus-shortname:
+  twitter: "thomas_lodato"
+  facebook: #username
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: https://www.linkedin.com/in/thomasjameslodato
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
