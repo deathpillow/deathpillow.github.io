@@ -5,9 +5,13 @@ excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-## Current ##
+## Current Appointment ##
 
-Postdoctoral Fellow, Center for Urban Innovation, School of Public Policy, Georgia Institite of Technology, August 2015-present
+Research Scientist. 2017-. Center for Urban Innovation, Institute for People and Technology, Georgia Institute of Technology.
+
+## Previous Appointments ##
+
+Postdoctoral Fellow. 2015-2016. Center for Urban Innovation, School of Public Policy, Georgia Institute of Technology.
 
 ## Education ##
 
@@ -20,18 +24,20 @@ B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 ## Publications & Proceedings ##
 
-Lodato, Thomas. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): https://www.epicpeople.org/ethnography-of-civic-participation/
+Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt Röttger-Rössler and Jan Slaby.
+
+Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): https://www.epicpeople.org/ethnography-of-civic-participation/
 
 DiSalvo, Carl, Tom Jenkins, and Thomas Lodato. 2016. “Designing Speculative Civics.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '16)*.
 
 Le Dantec, Chris, Carl DiSalvo, Tom Jenkins, Thomas Lodato, and Mariam Asad. 2016. “Object-Oriented Publics.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '16)*.
 
-Lodato, Thomas James, and Carl DiSalvo. “Issue-Oriented Hackathons as Material Participation.” *New Media & Society* 18, no. 4 (April 1, 2016): 539–57. doi:10.1177/1461444816629467.
+Lodato, Thomas James, and Carl DiSalvo. 2016. “Issue-Oriented Hackathons as Material Participation.” *New Media & Society* 18, no. 4 (April 1): 539–57. doi:10.1177/1461444816629467.
 
-Lodato, Thomas and Carl DiSalvo. “Issue-Oriented Hackathons as Ad-Hoc Design Events.” In
-*Proceedings for the Fourth Participatory Innovation Conference.* The Hague NL, May 18-20 2015.
+Lodato, Thomas and Carl DiSalvo. 2015. “Issue-Oriented Hackathons as Ad-Hoc Design Events.” In
+*Proceedings for the Fourth Participatory Innovation Conference.* The Hague NL, May 18-20.
 
-Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
+Holmer, Hrönn Brynjarsdóttir, Carl DiSalvo, Phoebe Sengers, and Thomas Lodato. 2014. “Constructing and Constraining Participation in Participatory Arts and HCI.” *International Journal of Human-Computer Studies* (October 2014). doi:10.1016/j.ijhcs.2014.10.003.
 
 Lodato, Thomas James and Daria Loi. 2014. "Where's love in e-waste?." In *Proceedings of the 13th Participatory Design Conference: Short Papers, Industry Cases, Workshop Descriptions, Doctoral Consortium papers, and Keynote abstracts* - Volume 2 (PDC '14), Vol. 2. ACM, New York, NY, USA, 195-197. DOI=10.1145/2662155.2667198 http://doi.acm.org/10.1145/2662155.2667198
 
@@ -39,16 +45,20 @@ DiSalvo, Carl, Melissa Gregg, and Thomas Lodato. 2014. “Building belonging.”
 
 DiSalvo, Carl, Jonathan Lukens, Thomas Lodato, Tom Jenkins, and Tanyoung Kim. 2014. “Making public things: how HCI design can express matters of concern.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14).* ACM, New York, NY, USA, 2397-2406.
 
-Acker, A., Chalmers, M., Burton, M., Wythoff, G., & Lodato, T.. (2013). “Learning with polyphony: AmpDamp.” *IConference 2013 Proceedings* (pp. 1090-1094).
+Acker, Amelia, Melissa Chalmers, Matt Burton, Grant Wythoff, & Thomas Lodato. (2013). “Learning with polyphony: AmpDamp.” *IConference 2013 Proceedings* (pp. 1090-1094).
 
 DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “The Collective Articulation of Issues as Design Practice.” *CoDesign*, Vol. 7, No. 3-4 (2011): 185-197.
 
 
 ## Presentations & Installations ##
 
-Shelton, T. and T. Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Creating Smart Cities Workshop*. The Programmable City Project, Maynooth University. Maynooth, Ireland. September 5.
+Lodato, Thomas. 2017. “Designing Participation: on the intermediation and branding of civics.” Presented at *The 67th Annual Conference of the International Communication Association.* San Diego, California. May 25-29.
 
-Shelton, T. and T. Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Regional Studies Association North America Conference*. Atlanta, GA. June 16.
+Clark, Jennifer and Thomas Lodato. 2016. "Working in Cities: Co-Working Spaces, The Maker Movement, and the Rise of Flexible Urban Workspaces." Presented at *56th Annual Conference for the Association of Collegiate Schools of Planning.* Portland, OR. November 16.
+
+Shelton, Taylor and Thomas Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Creating Smart Cities Workshop*. The Programmable City Project, Maynooth University. Maynooth, Ireland. September 5.
+
+Shelton, Taylor and Thomas Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Regional Studies Association North America Conference*. Atlanta, GA. June 16.
 
 Lodato, Thomas. "What is the Public?" on *Public Space Design Panel.* Center for Civic
 Innovation. Atlanta, GA. April 28 2015.
@@ -86,25 +96,24 @@ High School Mathematics, Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap 
 
 ### Workshops ###
 
-Design Thinking Workshops, Center for Civic Innovation (Atlanta GA), Spring 2015
+Georgia Smart Communities Workshop. 2017. At Atlanta Regional Commission (Atlanta GA): July. Documentation can be found [here](http://ipat.gatech.edu/news/georgia-tech-convenes-current-and-next-generation-thought-leaders-smart-communities-workshop).
 
-Design Tool Prototyping Workshop, Parsons the New School for Design (NYC), Feb. 2015
+PARSE ATL (workshop /#1). 2016. At Atlanta City Studio, with Public Design Workshop (Atlanta GA): September. Documentation can be found [here](http://publicdesignworkshop.net/portfolio/parse-atl/).
 
-E-Waste Workshop, Participatory Design Conference (Windhoek, Namibia), Oct. 2014
+Design Thinking for Social Entrepreneurs. 2015. At Center for Civic Innovation (Atlanta GA): Spring.
 
-Food Data Hack, Public Design Workshop (Atlanta GA), Mar. 2013
+Design Tool Prototyping. 2015. At Parsons the New School for Design (NYC): February.
 
-growBot Garden Workshops, Public Design Workshop (Atlanta GA & San Jose CA), Spring
-2009-Fall 2010
+Where's the Love in E-Waste. 2014. At Participatory Design Conference (Windhoek, Namibia): October.
 
-## Funded Research ##
+Food Data Hack. 2013. At Public Design Workshop (Atlanta GA): March. Documentation can be found [here](http://thomaslodato.info/projects/food-data-hack/).
+
+growBot Garden. 2009-2010. At Public Design Workshop (Atlanta GA & San Jose CA): Spring & Fall. Documentation can be found [here](http://thomaslodato.info/projects/growbot-garden/).
+
+##Other Professional Activities##
+
+*POLIS, a civic tech and smart cities speaker series.* 2017-. Organizer & Moderator.
+
+## Notable Support ##
 
 Intel Science and Technology Center for Social Computing (ISTC-Social): Collectivity & Creativity @ Public Design Workshop, Carl DiSalvo (PI), 2012-2015
-
-Public Design Futures @ Public Design Workshop, Carl DiSalvo (PI), 2011-2012
-
-growBot Garden @ Public Design Workshop, Carl DiSalvo (PI), Summer 2010
-
-Issue The Margins @ Public Design Workshop, Carl DiSalvo (PI), Summer 2009
-
-SpaceCam @ Digital World and Image Group (DWIG), Michael Nitsche (PI), 2008-2009
