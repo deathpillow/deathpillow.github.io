@@ -110,7 +110,7 @@ Food Data Hack. 2013. At Public Design Workshop (Atlanta GA): March. Documentati
 
 growBot Garden. 2009-2010. At Public Design Workshop (Atlanta GA & San Jose CA): Spring & Fall. Documentation can be found [here](http://thomaslodato.info/projects/growbot-garden/).
 
-##Other Professional Activities##
+## Other Professional Activities ##
 
 *POLIS, a civic tech and smart cities speaker series.* 2017-. Organizer & Moderator.
 
