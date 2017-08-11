@@ -98,7 +98,7 @@ High School Mathematics, Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap 
 
 Georgia Smart Communities Workshop. 2017. At Atlanta Regional Commission (Atlanta GA): July. Documentation can be found [here](http://ipat.gatech.edu/news/georgia-tech-convenes-current-and-next-generation-thought-leaders-smart-communities-workshop).
 
-PARSE ATL (workshop /#1). 2016. At Atlanta City Studio, with Public Design Workshop (Atlanta GA): September. Documentation can be found [here](http://publicdesignworkshop.net/portfolio/parse-atl/).
+PARSE ATL. 2016. At Atlanta City Studio, with Public Design Workshop (Atlanta GA): September. Documentation can be found [here](http://publicdesignworkshop.net/portfolio/parse-atl/).
 
 Design Thinking for Social Entrepreneurs. 2015. At Center for Civic Innovation (Atlanta GA): Spring.
 
