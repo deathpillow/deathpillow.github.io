@@ -24,7 +24,7 @@ B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 ## Publications & Proceedings ##
 
-Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt Röttger-Rössler and Jan Slaby.
+Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby.
 
 Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): https://www.epicpeople.org/ethnography-of-civic-participation/
 
@@ -116,4 +116,4 @@ growBot Garden. 2009-2010. At Public Design Workshop (Atlanta GA & San Jose CA):
 
 ## Notable Support ##
 
-Intel Science and Technology Center for Social Computing (ISTC-Social): Collectivity & Creativity @ Public Design Workshop, Carl DiSalvo (PI), 2012-2015
+Intel Science and Technology Center for Social Computing (ISTC-Social): Collectivity & Creativity @ Public Design Workshop, Carl DiSalvo (PI), 2012-2015.
