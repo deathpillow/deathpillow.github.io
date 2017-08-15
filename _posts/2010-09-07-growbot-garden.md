@@ -4,6 +4,7 @@ title: "Growbot Garden"
 category: projects
 date: 2010-09-07
 ---
+
 <figure>
 	<img src="{{ "images/growbot/growbot.jpg" | relative_url }}">
 </figure>
