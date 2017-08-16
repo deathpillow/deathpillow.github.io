@@ -2,7 +2,7 @@
 layout: post
 title: "Strategic Design Language project: Rollerblade"
 category: projects
-date: 2016-04-10 17:45:33 -0400
+date: 2012-12-10 17:45:33 -0400
 ---
 
 <figure>
