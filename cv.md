@@ -22,9 +22,9 @@ B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 ## Publications & Proceedings ##
 
-Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby.
+Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby. [A draft can be found here](https://www.academia.edu/31907421/Managing_community_Coworking_hospitality_and_the_precarious_future)
 
-Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): https://www.epicpeople.org/ethnography-of-civic-participation/
+Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): [https://www.epicpeople.org/ethnography-of-civic-participation/](https://www.epicpeople.org/ethnography-of-civic-participation/)
 
 DiSalvo, Carl, Tom Jenkins, and Thomas Lodato. 2016. “Designing Speculative Civics.” In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '16)*.
 
