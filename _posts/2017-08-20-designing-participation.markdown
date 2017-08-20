@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "New Website"
-date:   2017-08-16 13:56:39 -0400
-categories: projects
+date:   2017-08-20 13:56:39 -0400
+categories: writing
 ---
 
 ## Hi ##
