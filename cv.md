@@ -50,6 +50,8 @@ DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “T
 
 ## Presentations & Installations ##
 
+Lodato, Thomas and Jennifer Clark. 2017. "Wrangling Legacy Data: Preparing for Sociotechnical Change in the Smart City." Georgia Tech Smart Cities Speaker Series. Atlanta, GA. August 25.
+
 Lodato, Thomas. 2017. “Designing Participation: on the intermediation and branding of civics.” Presented at *The 67th Annual Conference of the International Communication Association.* San Diego, California. May 25-29.
 
 Clark, Jennifer and Thomas Lodato. 2016. "Working in Cities: Co-Working Spaces, The Maker Movement, and the Rise of Flexible Urban Workspaces." Presented at *56th Annual Conference for the Association of Collegiate Schools of Planning.* Portland, OR. November 16.
