@@ -8,7 +8,7 @@ On August 17th, I organized and moderated the first event of a speaker series on
 
 For POLIS ONE, the theme was social sustainability within civic technology ("Sustaining the Hack"). From hackathons to monthly meet-ups, many civic tech projects and efforts require volunteer labor and casual, extracurricular involvement. As such, maintaining projects long-term can be a challenge. POLIS ONE featured three speakers grabbling with these issues as different ways.
 
-The full presentation can be found [here]({{ "images/polis/one/polis-one.pdf" | relative_url }})).
+The full presentation can be found [here]({{ "images/polis/one/POLIS-ONE.pdf" | relative_url }})).
 
 Speaker Bios:
 
