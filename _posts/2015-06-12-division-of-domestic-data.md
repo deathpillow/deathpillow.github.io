@@ -8,7 +8,17 @@ date: 2015-02-15 23:24:49 -0500
 	<img src="{{ "images/ddd/icon-sketch-set-1/ddd-sketch-13.png" | relative_url }}">
 </figure>
 
-*The Division of Domestic Data* is a speculative design project that explores the nature of property and social connectivity in the context of divorce.
+## Overview ##
+
+**The Division of Domestic Data** is a speculative design project that explores the nature of property and social connectivity in a digital age using the scenario of divorce.
+
+With our possessions becoming increasingly digital&mdash;music available through services like Spotify or Apple Music; movie collections shelved on platforms like Amazon or iTunes; photos stored in albums on Facebook or feeds like Instagram; files accessible through cloud services like DropBox or Google Drive&mdash;ownership is less about retaining an object itself and more about managing access and abiding by terms of use. With these changes, privacy and security concerns related to our personal data, private information, and digital possessions have become increasingly prevalent. Managing access and maintaining privacy is often cast as giving access to those you want to have it and denying it to those you don't. This strict categorization of people is temporal as much as it is relational&mdash;a appliance repair person may need access to wifi; a future employer may need your social security number; a friend may need to borrow your Netflix. As such, property and possession are far more fluid in a digital age.
+
+Divorce is a rupture to a personal as much as a property relationship. Spouses share information, data, possessions, property, utilities, and myriad other things. Where existing divorce procedures protect traditional property, digital possession and access to digital services are not clearly defined.
+
+The following is a documentation of the design project. The final deliverables of the project were an icon set, informational packet, and series of scenarios. The various materials documented here come from the iterative process of developing these deliverables.
+
+The project employed a research-through-design methodology, including ethnographic field work, iterative sketching, low-fidelity prototyping, and scenario development.
 
 ## Background ##
 
@@ -54,11 +64,11 @@ While this question could be answered in a very direct way, the project explores
 
 Speculating on these implications probes larger questions within digital media scholarship about the ways digital and computational technologies are understood&mdash;and so regulated and made expressive&mdash;as part of everyday life. Divorce provides a microcosm for discussion about:
 
-*the nature of possessions and possessing in a digital era*
+**the nature of possessions and possessing in a digital era**
 
-*bureaucratic processes in an era of open government*
+**bureaucratic processes in an era of open government**
 
-*sociality (and forgetting) in an era of mediated social networks*
+**sociality (and forgetting) in an era of mediated social networks**
 
 <figure>
 	<img src="/images/ddd/scenario-second-sketch/ddd-2-01.png">

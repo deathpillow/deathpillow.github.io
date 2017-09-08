@@ -2,7 +2,7 @@
 layout: post
 title: "Teaching Tools for Sensing and Robotics (Growbot Garden)"
 category: projects
-date: 2015-01-19 17:20:06 -0500 
+date: 2010-01-19 17:20:06 -0500 
 ---
 
 <figure>

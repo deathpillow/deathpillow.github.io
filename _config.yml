@@ -23,6 +23,8 @@ twitter_username: thomas_lodato
 github_username:  deathpillow
 linkedin_username:  thomasjameslodato
 
+permalink: /:categories/:title/
+
 
 # Build settings
 markdown: kramdown
