@@ -22,7 +22,7 @@ B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 ## Publications & Proceedings ##
 
-Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby. [A draft can be found here](https://www.academia.edu/31907421/Managing_community_Coworking_hospitality_and_the_precarious_future)
+Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby. ([pre-publication draft](https://www.academia.edu/31907421/Managing_community_Coworking_hospitality_and_the_precarious_future))
 
 Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): [https://www.epicpeople.org/ethnography-of-civic-participation/](https://www.epicpeople.org/ethnography-of-civic-participation/)
 
@@ -50,26 +50,26 @@ DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “T
 
 ## Presentations & Installations ##
 
-Lodato, Thomas and Jennifer Clark. 2017. "Wrangling Legacy Data: Preparing for Sociotechnical Change in the Smart City." Georgia Tech Smart Cities Speaker Series. Atlanta, GA. August 25.
+Lodato, Thomas and Jennifer Clark. 2017. "Wrangling Legacy Data: Preparing for Sociotechnical Change in the Smart City." Georgia Tech Smart Cities Speaker Series. Atlanta, GA. August 25. ([related post]({{ "projects/wrangling-legacy-data.html" | relative_url }}))
 
 Lodato, Thomas. 2017. “Designing Participation: on the intermediation and branding of civics.” Presented at *The 67th Annual Conference of the International Communication Association.* San Diego, California. May 25-29.
 
-Clark, Jennifer and Thomas Lodato. 2016. "Working in Cities: Co-Working Spaces, The Maker Movement, and the Rise of Flexible Urban Workspaces." Presented at *56th Annual Conference for the Association of Collegiate Schools of Planning.* Portland, OR. November 16.
+Clark, Jennifer and Thomas Lodato. 2016. "Working in Cities: Co-Working Spaces, The Maker Movement, and the Rise of Flexible Urban Workspaces." Presented at *56th Annual Conference for the Association of Collegiate Schools of Planning.* Portland, OR. November 16. ([related post]({{ "writing/flexible-work-flexible-work-spaces.html" | relative_url }}))
 
-Shelton, Taylor and Thomas Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Creating Smart Cities Workshop*. The Programmable City Project, Maynooth University. Maynooth, Ireland. September 5.
+Shelton, Taylor and Thomas Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Creating Smart Cities Workshop*. The Programmable City Project, Maynooth University. Maynooth, Ireland. September 5. ([video of Taylor's talk]({{ "writing/actually-existing-smart-citizens.html" | relative_url }}))
 
 Shelton, Taylor and Thomas Lodato. 2016. ‘Actually existing smart citizens’: expertise and (non)participation in the making of the smart city. Presented at *Regional Studies Association North America Conference*. Atlanta, GA. June 16.
 
 Lodato, Thomas. "What is the Public?" on *Public Space Design Panel.* Center for Civic
-Innovation. Atlanta, GA. April 28 2015.
+Innovation. Atlanta, GA. April 28 2015. ([post based on talk]({{ "writing/what-is-public.html" | relative_url }}))
 
-DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andrew Schrock. "Civic Hacking (panel)." *Digital Labor 2014*, The New School, New York City, November 14-16 2014.
+DiSalvo, Carl, Melissa Gregg, Lilly Irani, Max Liboiron, Thomas Lodato, and Andrew Schrock. "Civic Hacking (panel)." *Digital Labor 2014*, The New School, New York City, November 14-16 2014. ([position statements]({{ "writing/three-positions-on-civic-hacking.html" | relative_url }}))
 
 Lodato, Thomas. *The Patent Multiple.* Society for the Social Studies of Science Annual Meeting (Cleveland OH) Nov. 2011
 
 Georgia Tech Vision Salon (Atlanta GA) Spring 2011: *G01N 23/20, or, 15 Questions to Ask 30 Patents*
 
-01SJ Biennial (San Jose CA) Fall 2010: *growbot Garden* (as part of Public Design Workshop)
+01SJ Biennial (San Jose CA) Fall 2010: *growbot Garden* (as part of Public Design Workshop) ([project overview]({{ "projects/sheeps-clothing-crypsis-for-urban-sensing.html" | relative_url }}))
 
 BiodiverCity 47 (Washington D.C.) Fall 2010: *growBot Garden* (as part of Public Design Workshop)
 
@@ -96,9 +96,9 @@ High School Mathematics, Teaching Fellow, Rabun Gap-Nacoochee School (Rabun Gap 
 
 ### Workshops ###
 
-Georgia Smart Communities Workshop. 2017. At Atlanta Regional Commission (Atlanta GA): July. Documentation can be found [here](http://ipat.gatech.edu/news/georgia-tech-convenes-current-and-next-generation-thought-leaders-smart-communities-workshop).
+Georgia Smart Communities Workshop. 2017. At Atlanta Regional Commission (Atlanta GA): July.  ([event recap](http://ipat.gatech.edu/news/georgia-tech-convenes-current-and-next-generation-thought-leaders-smart-communities-workshop); [design documentation]({{ "projects/georgia-smart-communities-workshop.html" | relative_url }}))
 
-PARSE ATL. 2016. At Atlanta City Studio, with Public Design Workshop (Atlanta GA): September. Documentation can be found [here](http://publicdesignworkshop.net/portfolio/parse-atl/).
+PARSE ATL. 2016. At Atlanta City Studio, with Public Design Workshop (Atlanta GA): September. ([documentation](http://publicdesignworkshop.net/portfolio/parse-atl/))
 
 Design Thinking for Social Entrepreneurs. 2015. At Center for Civic Innovation (Atlanta GA): Spring.
 
@@ -106,13 +106,13 @@ Design Tool Prototyping. 2015. At Parsons the New School for Design (NYC): Febru
 
 Where's the Love in E-Waste. 2014. At Participatory Design Conference (Windhoek, Namibia): October.
 
-Food Data Hack. 2013. At Public Design Workshop (Atlanta GA): March. Documentation can be found [here]({{ "projects/2013/03/09/food-data-hack.html" | relative_url }}).
+Food Data Hack. 2013. At Public Design Workshop (Atlanta GA): March. ([project recap]({{ "projects/food-data-hack.html" | relative_url }}))
 
-growBot Garden. 2009-2010. At Public Design Workshop (Atlanta GA & San Jose CA): Spring & Fall. Documentation can be found [here]({{ "projects/2010/09/07/growbot-garden.html" | relative_url }}).
+growBot Garden. 2009-2010. At Public Design Workshop (Atlanta GA & San Jose CA): Spring & Fall. ([overall documentation]({{ "projects/growbot-garden.html" | relative_url }}); [learning activity design documentation]({{ "projects/teaching-tools-for-sensing-and-robotics-growbot-garden.html" | relative_url }}); [crypsis workshops]({{ "projects/sheeps-clothing-crypsis-for-urban-sensing.html" | relative_url }}))
 
 ## Other Professional Activities ##
 
-*POLIS, a civic tech and smart cities speaker series.* 2017-. Organizer & Moderator.
+*POLIS, a civic tech and smart cities speaker series.* 2017-. Organizer & Moderator. ([POLIS ONE]({{ "news/polis-one.html" | relative_url }}))
 
 ## Notable Support ##
 

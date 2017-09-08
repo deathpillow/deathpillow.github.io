@@ -2,7 +2,7 @@
 layout: post
 title:  "POLIS ONE: Sustaining the Hack"
 date:   2017-09-01 13:30:00 -0000
-categories: event
+categories: news
 ---
 On August 17th, I organized and moderated the first event of a speaker series on civic technology and smart cities called POLIS. The event was hosted by General Assembly. The series focuses on the intersection of computational technology, governments, data, and citizenship. The series focuses on themes such as sustaining new civic hacking efforts, emerging modes and sites of engagement, and the role of governments in urban technological change.
 
