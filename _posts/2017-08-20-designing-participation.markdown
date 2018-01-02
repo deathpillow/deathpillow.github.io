@@ -7,8 +7,10 @@ categories: writing
 
 In May, I presented at the 67th annual International Communication Association (ICA) conference in San Diego. My presentation/paper, entitled "Designing Participation: on the intermediation and branding of civics", was part of a panel with Andrew Schrock, Burcu Baykurt, and Laura Forlano, entitled "The Civic Technology Movement: Intervening in Designing Cities."
 
-At the time of proposing the panel (Oct 2016; see panel proposal below), I had only begun to think through the design of smart city convenings and the role of these events in constructing shaping contemporary approaches to participation.
+At the time of proposing the panel (Oct 2016; see panel proposal below), I had only begun to think through the design of smart city convenings and the role of these events in shaping participation.
 
 By smart city convenings, I am referring to a variety of different events:
 - civic hackathons, ranging from national events like [AT&T's Hackathon Invitational Challenge](https://devsummit.att.com/hackathon-invitational) or local events like the Metropolitan Atlanta Regional Transit Authority (MARTA) Hackathon series ([live link](https://www.eventbrite.com/e/marta-hackathon-rider-experience-design-thinking-tickets-36606813966?aff=erelexpmlt); [archive link](http://www.webcitation.org/6tA0yaqoa));
-- summits and conferences, such as [the Gigabit City Summit](http://www.webcitation.org/6tA1L2e0A) and [Smart Cities Week]()
+- summits and conferences, such as [the Gigabit City Summit](http://www.webcitation.org/6tA1L2e0A) and [Smart Cities Week]([live link](http://smartcitiesweek.com/2017-Washington/); [archival link](http://www.webcitation.org/6tA1eHDhP))
+- demo days, press events, and ribbon cuttings, such as [Experience SmartATL](https://www.eventbrite.com/e/experience-smartatl-tickets-37072728529) and [North Ave. Smart Corridor ribbon cutting celebration](http://ipat.gatech.edu/hg/item/595742)
+- public workshops, such as [Atlanta's kick-off agenda setting workshop for Rockefeller Foundation's 100 Resilient Cities program](https://www.atlantaga.gov/Home/Components/News/News/4713/672?arch=1&npage=5)
