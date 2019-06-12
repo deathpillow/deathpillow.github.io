@@ -4,10 +4,11 @@ title: CV
 permalink: /cv/
 ---
 ## Current ##
+Senior User Experience Researcher. 2018- . Verizon Connect.
 
-Research Scientist. 2017-. Center for Urban Innovation, Institute for People and Technology, Georgia Institute of Technology.
 
 ## Previous ##
+Research Scientist. 2017-2018. Center for Urban Innovation, Institute for People and Technology, Georgia Institute of Technology.
 
 Postdoctoral Fellow. 2015-2016. Center for Urban Innovation, School of Public Policy, Georgia Institute of Technology.
 
@@ -22,7 +23,15 @@ B.S. in Mathematics, Davidson College, Aug. 2003-May 2007
 
 ## Publications & Proceedings ##
 
-Gregg, Melissa and Thomas Lodato. *forthcoming.* “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby. ([pre-publication draft](https://www.academia.edu/31907421/Managing_community_Coworking_hospitality_and_the_precarious_future))
+Taylor Shelton & Thomas Lodato. 2019. "Actually existing smart citizens", *City*, 23:1, 35-52, DOI: 10.1080/13604813.2019.1575115
+
+Thomas Lodato, Emma French & Jennifer Clark. 2018. "Open government data in the smart city: Interoperability, urban knowledge, and linking legacy systems", *Journal of Urban Affairs*, DOI: 10.1080/07352166.2018.1511798
+
+Thomas Lodato and Carl DiSalvo. 2018. Institutional constraints: the forms and limits of participatory design in the public realm. In *Proceedings of the 15th Participatory Design Conference: Full Papers - Volume 1 (PDC '18)*, Liesbeth Huybrechts, Maurizio Teli, Ann Light, Yanki Lee, Julia Garde, John Vines, Eva Brandt, Anne Marie Kanstrup, and Keld Bødker (Eds.), Vol. 1. ACM, New York, NY, USA, Article 5, 12 pages. DOI: https://doi.org/10.1145/3210586.3210595
+
+Shelton, T. and T. Lodato. 2018. "From smart cities to smart citizens? Searching for the ‘actually existing smart citizen’ in Atlanta, Georgia."" In *Creating Smart Cities*, eds. C. Coletta, L. Evans, L. Heaphy and R. Kitchin. Routledge. pp. 144-154.
+
+Gregg, Melissa and Thomas Lodato. 2018. “Managing Community: coworking, hospitality, and the precarious future.” In *Affect in Relation - Families, Places, Technologies. Essays on Affectivity and Subject Formation in the 21th Century.* Edited by Birgitt R&ouml;ttger-R&ouml;ssler and Jan Slaby. ([pre-publication draft](https://www.academia.edu/31907421/Managing_community_Coworking_hospitality_and_the_precarious_future))
 
 Lodato, Thomas. 2016. “Ethnography of Civic Participation: The Difficulty of Showing Up Even when You Are There.” In *Data, Design and Civics: Ethnographic Perspectives (article series)*. EPIC, (May 2, 2016): [https://www.epicpeople.org/ethnography-of-civic-participation/](https://www.epicpeople.org/ethnography-of-civic-participation/)
 
@@ -49,6 +58,8 @@ DiSalvo, Carl, Thomas Lodato, Laura Fries, Beth Schechter, Thomas Barnwell. “T
 
 
 ## Presentations & Installations ##
+
+Clark, J. & Lodato, T. (2018). The Work of Smart Cities: Skill and Sociotechnical Change in the Smart City. Urban Affairs Association Annual Conference. Toronto, ON. April 4-7. ([related post]({{ "projects/wrangling-legacy-data/" | relative_url }}))
 
 Lodato, Thomas and Jennifer Clark. 2017. "Wrangling Legacy Data: Preparing for Sociotechnical Change in the Smart City." Georgia Tech Smart Cities Speaker Series. Atlanta, GA. August 25. ([related post]({{ "projects/wrangling-legacy-data/" | relative_url }}))
 
